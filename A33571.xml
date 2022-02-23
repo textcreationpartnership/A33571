@@ -1,0 +1,3151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cocker's morals, or, The muses spring-garden adorned with many sententious disticks &amp; poems in alphabetical order : fitted for the use of all publick and private grammar and writing schools, for the scholars of the first to turn into Latin, and for those of the other to transcribe into all their various and curious hands / by Edward Cocker.</title>
+            <author>Cocker, Edward, 1631-1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 93 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33571</idno>
+            <idno type="STC">Wing C4843A</idno>
+            <idno type="STC">ESTC R29228</idno>
+            <idno type="EEBO-CITATION">10861946</idno>
+            <idno type="OCLC">ocm 10861946</idno>
+            <idno type="VID">46150</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33571)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46150)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1419:48)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cocker's morals, or, The muses spring-garden adorned with many sententious disticks &amp; poems in alphabetical order : fitted for the use of all publick and private grammar and writing schools, for the scholars of the first to turn into Latin, and for those of the other to transcribe into all their various and curious hands / by Edward Cocker.</title>
+                  <author>Cocker, Edward, 1631-1675.</author>
+               </titleStmt>
+               <extent>[2], 68 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Drant and T.L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Moral education --  England.</term>
+               <term>English language --  Quotations, maxims, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46150:1"/>
+            <pb facs="tcp:46150:1" rendition="simple:additions"/>
+            <p>Cocker's Morals, OR, THE MUSES Spring-Garden, Adorned with many Sententious Diſticks &amp; Poems, In ALPHABETICAL ORDER. Fitted for the Uſe of all Publick and Private Grammar and Writing Schools, for the Scholars of the firſt to turn into Latin, and for thoſe of the other to Tranſcribe into all their various and curious Hands.</p>
+            <q>Omne Bonum, Dei Donum.</q>
+            <p>By <hi>Edward Cocker,</hi> Practitioner in the Arts of Writing, Arithmetick, and Engraving, and publiſhed for the benefit of Learners.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Drant</hi> at the Ship in St. <hi>Mary Axe,</hi> and <hi>T. L.</hi> at the Golden Lyon near the Meal-Market in <hi>Southwark</hi> Stationer, 1675.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:46150:2"/>
+            <pb facs="tcp:46150:2"/>
+            <head>To my Honoured FRIEND Mr. <hi>ELEAZAR WIGAN</hi> That Famous Writing-Maſter; Living at the Hand and Pen on Great <hi>Tower-Hill, LONDON.</hi>
+            </head>
+            <lg>
+               <l>TO you, you rare Commander of the Quill,</l>
+               <l>Whoſe Wit, and Worth; deep Learning and high Skil,</l>
+               <l>Speak you the Honour of Great Tower-Hill.</l>
+            </lg>
+            <lg>
+               <l>How ſaid I, Honour of Great Tower-Hill?</l>
+               <l>Yea, all Great <hi>London,</hi> all the World, your Skill,</l>
+               <l>Will with exceſſive admiration fill.</l>
+            </lg>
+            <lg>
+               <l>To You, th' enſuing Verſes I preſent,</l>
+               <l>Whoſe great Imployments, prudent Management,</l>
+               <l>Proclaims your Skill, and Conduct, Excellent.</l>
+            </lg>
+            <lg>
+               <l>Crown them with Rayes of your auſpitious Sight;</l>
+               <l>Survey them firſt; then let them take their flight,</l>
+               <l>For every Learner's profit and Delight.</l>
+            </lg>
+            <lg>
+               <l>Thus, round the World, you will <hi>
+                     <g ref="char:V">Ʋ</g>rania</hi> ſend;</l>
+               <l>Thus will her ſpreading Wings your Fame extend;</l>
+               <l>And thus, you will endear your real Friend</l>
+            </lg>
+            <closer>
+               <signed>Edward Cocker.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:46150:3"/>
+            <head>To the Reader.</head>
+            <div type="poem">
+               <l>IF here you meet with any worthleſs Line,</l>
+               <l>
+                  <hi>Humanum eſt errare</hi> Stamps it mine,</l>
+               <l>But if you find here any Worthy Line,</l>
+               <l>It from a Fountain flows that's more Divine.</l>
+               <l>So Read, as to commit to Memory,</l>
+               <l>All Sentences worthy that Treaſury.</l>
+               <l>And ſo remember all, as that you may,</l>
+               <l>In ſeaſon practice them; and ſo diſplay</l>
+               <l>Their Influence, as Honour may redound</l>
+               <l>To GOD, and you may be with profit crown'd.</l>
+            </div>
+            <div type="poem">
+               <head>AGAIN,</head>
+               <l>SOme in compendious Epigrams ſhew forth,</l>
+               <l>With charming Artifice, their Wit and Worth.</l>
+               <l>Some with rich Lines and Emblems, well deſign'd,</l>
+               <l>At once affect the Readers Eye and Mind.</l>
+               <l>Some, in Soul-pleaſing Paſtorals do prove</l>
+               <l>How <hi>Coridon</hi> did <hi>Amarillis</hi> love.</l>
+               <l>Some high flown Brains in lofty Strains indite</l>
+               <l>The amazing terrours of ſome horrid Fight.</l>
+               <l>Some with Satyrick laſhes of the Pen,</l>
+               <l>Anatomize the vicious Lives of men.</l>
+               <l>Some with Hiſtorick Lines their Readers pleaſe:</l>
+               <l>Relating Feats and Fights, on Land and Seas.</l>
+               <l>Some with high Raptures, fitted to the Lyre,</l>
+               <l>Ingenious Readers well-pleas'd Souls inſpire.</l>
+               <l>Some with Heroick Strains of nobleſt kinds,</l>
+               <l>And choiceſt Theams, inflame their Readers Minds.</l>
+               <l>Some, which beyond the reſt, deſerve the Bays,</l>
+               <l>Wiſely exalt their great Creators Praiſe.</l>
+               <l>With many more, whoſe varions, rare Inventions,</l>
+               <l>Delight their own and others Apprehenſions.</l>
+               <l>But I, the laſt and leaſt, ſtrive to teach Youths</l>
+               <l>Good Manners, and inrich their Minds with truths.</l>
+            </div>
+            <closer>
+               <signed>Edward Cocker.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:46150:3"/>
+            <div n="A" type="section">
+               <head>A</head>
+               <lg>
+                  <l>A Chriſtians nobleſt Enſign is the Croſs,</l>
+                  <l>And all things, to belief in Chriſt, are droſs.</l>
+               </lg>
+               <lg>
+                  <l>Alas! what are the Beſt of Human Race,</l>
+                  <l>Till their rude Natures are improv'd by Grace.</l>
+               </lg>
+               <lg>
+                  <l>All Arts by powerful Induſtry are gain'd,</l>
+                  <l>And by continu'd Exerciſe retain'd.</l>
+               </lg>
+               <lg>
+                  <l>Affection make your Servant, Will your Slave,</l>
+                  <l>Paſſion your Drudge; you'r then a Prince moſt brave.</l>
+               </lg>
+               <lg>
+                  <l>A love to Learning is th' unfailing Clue,</l>
+                  <l>That leads us Learnings Rarities to view.</l>
+               </lg>
+               <lg>
+                  <l>Advance your Plumes; be bold, yet humbly wiſe,</l>
+                  <l>Thus high you may ſtand firm, and low ariſe.</l>
+               </lg>
+               <lg>
+                  <l>A faithful Friend is as the Phoenix rare,</l>
+                  <l>And who can find where two ſuch Creatures are?</l>
+               </lg>
+               <lg>
+                  <l>Action and Virtue, if we ſeparate,</l>
+                  <l>They both into the Aire evaporate.</l>
+               </lg>
+               <lg>
+                  <l>Abhor to Navigate in troubled Seas,</l>
+                  <l>And hate the Company of Sloath and Eaſe.</l>
+               </lg>
+               <pb n="2" facs="tcp:46150:4"/>
+               <lg>
+                  <l>A good Effect may ſpring from a bad Cauſe,</l>
+                  <l>Both croſs to Reaſons, and to Natures Laws.</l>
+               </lg>
+               <lg>
+                  <l>Accept a Courteſie at firſt Rebound,</l>
+                  <l>And wait not till a ſecond may be found.</l>
+               </lg>
+               <lg>
+                  <l>Arithmetick, ſcorning all Bounds and Bars,</l>
+                  <l>Tranſcends Earths Sands in numbers, and Heavens Stars.</l>
+               </lg>
+               <lg>
+                  <l>As by degrees ill Cuſtomes have been taken,</l>
+                  <l>So by degrees they beſt may be forſaken.</l>
+               </lg>
+               <lg>
+                  <l>Aſcend not Honours Alpes, the price is ſmall;</l>
+                  <l>Tempt not the danger of a dreadful Fall.</l>
+               </lg>
+               <lg>
+                  <l>Although we know our Steps would lead to Woe,</l>
+                  <l>We find it hard not in thoſe ſteps to goe.</l>
+               </lg>
+               <lg>
+                  <l>Action, thou Queen of Virtues, what high Praiſe,</l>
+                  <l>What Trophies to thy Honour ſhall I raiſe?</l>
+                  <l>It far tranſcends Man's skill thy Worth to rate,</l>
+                  <l>All thoſe who Love not Thee, their own Souls hate.</l>
+                  <l>All famous Monuments beneath the Skie,</l>
+                  <l>Thy Excellence commend and magnifie.</l>
+               </lg>
+               <lg>
+                  <l>A healthful Temper you may beſt advance</l>
+                  <l>By Moderation, and wiſe Temperance.</l>
+               </lg>
+               <lg>
+                  <l>At other Mens enjoyments to Repine,</l>
+                  <l>What augmentation will it prove to thine?</l>
+               </lg>
+               <lg>
+                  <l>As Tygres vex'd, their Spots more plain appear,</l>
+                  <l>So Men provok'd, their Paſſions Domineer.</l>
+               </lg>
+               <pb n="3" facs="tcp:46150:4"/>
+               <lg>
+                  <l>Amendment of concernment is to all,</l>
+                  <l>Virtues vaſt Columnes but for this would fall.</l>
+               </lg>
+               <lg>
+                  <l>A Suretie is a ſure tie; he's moſt ſure,</l>
+                  <l>Who is from Bonds and Surety-Ship ſecure.</l>
+               </lg>
+               <lg>
+                  <l>Ambition and Preſumption mount Men high.</l>
+                  <l>But if they fall, the more's their miſery.</l>
+               </lg>
+               <lg>
+                  <l>Abſtain from Creature-Comforts all you can,</l>
+                  <l>And that's the way to prove a happy Man.</l>
+               </lg>
+               <lg>
+                  <l>Amazing heights fondly aſpire not to,</l>
+                  <l>Fools mount and fall, the Wiſe walk ſafe below.</l>
+               </lg>
+               <lg>
+                  <l>Act nothing but what you may ſafely own,</l>
+                  <l>And what you need not bluſh at being known.</l>
+               </lg>
+               <lg>
+                  <l>At ſmallneſs of Eſtate never Repine,</l>
+                  <l>He that hath leſs, would gladly change for thine.</l>
+               </lg>
+               <lg>
+                  <l>Artiſts inveſted with rare Skill and worth,</l>
+                  <l>Scorn that their Tongues the ſame ſhould trumpet forth.</l>
+               </lg>
+               <lg>
+                  <l>Always with Honour, Fear, and Reverence,</l>
+                  <l>Meditate on th' Immenſe Omnipotence.</l>
+               </lg>
+               <lg>
+                  <l>Adorn your Place, if entertain'd in Truſt,</l>
+                  <l>By being Impartial, Diligent, and Juſt.</l>
+               </lg>
+               <lg>
+                  <l>All you that in fair Writing would excell,</l>
+                  <l>How much you write regard not, but how Well.</l>
+               </lg>
+               <lg>
+                  <l>A Gift with a ſweet violence entrance makes,</l>
+                  <l>And the deceiv'd Receiver Captive takes.</l>
+               </lg>
+               <pb n="4" facs="tcp:46150:5"/>
+               <lg>
+                  <l>At Board, accept what your Friend's pleaſ'd to Carve,</l>
+                  <l>Obſerve not haſtily your ſelf to ſerve.</l>
+               </lg>
+               <lg>
+                  <l>A man would ſtrange to view the diſtances</l>
+                  <l>Of Promiſes and their Performances.</l>
+               </lg>
+               <lg>
+                  <l>A Tongue that's now rough as the courſeſt File,</l>
+                  <l>Can, in a moment, be more ſmooth than Oile.</l>
+               </lg>
+               <lg>
+                  <l>Always contend not; do not always ſtrive,</l>
+                  <l>For ſometimes to Retreat, is to Retrive.</l>
+               </lg>
+               <lg>
+                  <l>All Scholars theſe three Leſſons much concern,</l>
+                  <l>Grace, and good Manners, with a will to learn.</l>
+               </lg>
+               <lg>
+                  <l>A Chriſtian, contemplating things Divine,</l>
+                  <l>Enjoys a <hi>Paſgah</hi>-Sight of <hi>Paleſtine.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Aſſume a noble Reſolution, ſtrain</l>
+                  <l>Your Faculties, rare Sciences to gain.</l>
+               </lg>
+               <lg>
+                  <l>Amorous Embracements, and Adulterous fires</l>
+                  <l>Abhor and quench; hate all but chaſt deſires.</l>
+               </lg>
+               <lg>
+                  <l>Arithmetician, make your Art appear,</l>
+                  <l>Compute your Sins Sum-Total for a Year.</l>
+               </lg>
+               <lg>
+                  <l>All rare Projections ſink, though nobly high,</l>
+                  <l>Projectors wanting Chink for their ſupply.</l>
+               </lg>
+               <lg>
+                  <l>All our Deſigns in this vain World ſhould tend</l>
+                  <l>To future-Hopes; this Life will quickly end.</l>
+               </lg>
+               <lg>
+                  <l>Affection with Inſtruction and Direction,</l>
+                  <l>Are the Renowned Handmaids of Perfection.</l>
+               </lg>
+               <pb n="5" facs="tcp:46150:5"/>
+               <lg>
+                  <l>Againſt that time, when Death and Time muſt die,</l>
+                  <l>Reſigning all up to Eternitie;</l>
+                  <l>Moſt ſolemnly prepare, that you may ſtand,</l>
+                  <l>Amongſt the ever bleſt, on Chriſt's right hand.</l>
+               </lg>
+               <lg>
+                  <l>All God's Commandments are Divinely pure,</l>
+                  <l>By keeping them, men keep their Souls ſecure.</l>
+               </lg>
+               <lg>
+                  <l>Art rarifies the Mind, and various wayes</l>
+                  <l>Improves dull Nature to <hi>JEHOVA</hi>'s Praiſe.</l>
+               </lg>
+               <lg>
+                  <l>All things are mutable beneath the Skie,</l>
+                  <l>And nothing conſtant but Inconſtancie.</l>
+               </lg>
+               <lg>
+                  <l>A lofty Countenance, a Soul far more ſublime,</l>
+                  <l>God gave Man Heav'n to view, and its vaſt height to climb.</l>
+               </lg>
+               <lg>
+                  <l>All you that would Write fair, mind this Deſign,</l>
+                  <l>Still to improve in every Word and Line:</l>
+                  <l>Here haſt makes waſt, of Paper, Ink, and Time,</l>
+                  <l>And ſomething, in Opinion, more Sublime,</l>
+                  <l>The All-commanding Coin; and who would waſt</l>
+                  <l>All theſe at once, by making too much haſt.</l>
+               </lg>
+               <lg>
+                  <l>Aim at Arts Altitude; aſpire, aſcend,</l>
+                  <l>Acquire, aſſume, accompliſh, and amend.</l>
+               </lg>
+               <lg>
+                  <l>Actions Superlatively Excellent,</l>
+                  <l>Render their noble Authors Eminent.</l>
+               </lg>
+               <pb n="6" facs="tcp:46150:6"/>
+               <lg>
+                  <l>Arithmetick let a Man underſtand,</l>
+                  <l>And after that, Geometry command.</l>
+                  <l>Then let him turn Aſtronomer, and prove</l>
+                  <l>How many Stars are fix'd, how many move.</l>
+                  <l>Next a Geographer Earths Globe ſurvey,</l>
+                  <l>The long-ſought, unfound Longitude Diſplay.</l>
+                  <l>
+                     <hi>Apollo</hi>'s Lyre next let him take in hand,</l>
+                  <l>And all the high Soul-charming Aires command.</l>
+                  <l>Yea, let him have all Arts, all are but Smoke</l>
+                  <l>To him that has no mony in his Poke.</l>
+               </lg>
+            </div>
+            <div n="B" type="section">
+               <pb n="7" facs="tcp:46150:6"/>
+               <head>B</head>
+               <lg>
+                  <l>BY ſad Experience this is known to ſome,</l>
+                  <l>Who hate Inſtruction, to Deſtruction come.</l>
+               </lg>
+               <lg>
+                  <l>Bad Company, as Peſtilential Aire,</l>
+                  <l>You'd ſhun, did you but know how bad it were.</l>
+               </lg>
+               <lg>
+                  <l>Brave and Heroick are the Acts of thoſe,</l>
+                  <l>Who no man better than themſelves ſuppoſe.</l>
+               </lg>
+               <lg>
+                  <l>Before you undertake, conſider well,</l>
+                  <l>And then reſolve, next in Diſpatch excel.</l>
+               </lg>
+               <lg>
+                  <l>Be wiſe betimes, and ſtrive in all that's thine,</l>
+                  <l>That evermore the Golden Mean may ſhine.</l>
+               </lg>
+               <lg>
+                  <l>By Pen or Penſil, who to mortal Eye</l>
+                  <l>Can repreſent Immenſe Eternity.</l>
+               </lg>
+               <lg>
+                  <l>By ſqueeſing Wax, and their Names writing, ſome</l>
+                  <l>From wealth to want (<hi>cavete</hi>) ſoon have come.</l>
+               </lg>
+               <lg>
+                  <l>Brave Virtues Emanations charm the Eyes</l>
+                  <l>Of all that are ſincerely Good and Wiſe.</l>
+               </lg>
+               <lg>
+                  <l>Beſt Precepts are Examples; for ſome teach</l>
+                  <l>By words, what their beſt Actions cannot reach.</l>
+                  <l>Yet, though like Trumpeters, they do not fight,</l>
+                  <l>They others to the Battail do excite.</l>
+               </lg>
+               <lg>
+                  <l>Beware of that ſly Sycophant's Dogg-Tricks,</l>
+                  <l>Who, like a Spanniel flatters, fawns, and licks.</l>
+               </lg>
+               <lg>
+                  <l>But ſmall, though ſeeming great, will prove the prize</l>
+                  <l>That is obtain'd by Falſities and Lies.</l>
+               </lg>
+               <pb n="8" facs="tcp:46150:7"/>
+               <lg>
+                  <l>By verbal ſounds, who makes his ſmall parts famous,</l>
+                  <l>But proves himſelf the greater <hi>Ignoramus.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Before Time calls to the dark ſilent Grave,</l>
+                  <l>What we can do doth our Attention crave.</l>
+               </lg>
+               <lg>
+                  <l>Behave your ſelf neither too low, nor high,</l>
+                  <l>But ſo, as beſt Suits with your Quality.</l>
+               </lg>
+               <lg>
+                  <l>But Thirty and two Points the Sea-man finds</l>
+                  <l>Upon his Compaſs: thouſands have Mens minds.</l>
+               </lg>
+               <lg>
+                  <l>Be good to all Men; to the beſt be beſt;</l>
+                  <l>Court Peace, with no contentious Men conteſt.</l>
+               </lg>
+               <lg>
+                  <l>Beaſts by their Horns, or Ears are taken, when</l>
+                  <l>More to their harm, Men by their Tongues take Men.</l>
+               </lg>
+               <lg>
+                  <l>Boaſt not of Features, or a ſmooth clear skin,</l>
+                  <l>But make your Gallant mind fair Virtues Inn.</l>
+               </lg>
+               <lg>
+                  <l>Be ſtill a Lover of ingenious Pains,</l>
+                  <l>For ſtill the working hand the Penny gains.</l>
+               </lg>
+               <lg>
+                  <l>Beſt of Examples, with the beſt Direction,</l>
+                  <l>Bring Learning-Loving-Learners to perfection.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Boreas</hi> tall Cedars buffets, but low Shrubs,</l>
+                  <l>Secure below, defie his furious rubs.</l>
+               </lg>
+               <lg>
+                  <l>By all Ingenious Men this is confeſt,</l>
+                  <l>The way to Write beſt, is to Read the beſt.</l>
+               </lg>
+               <lg>
+                  <l>Be not like him, who ſo far vainly ſtrays,</l>
+                  <l>That he's aſham'd to leave his wicked VVays.</l>
+               </lg>
+               <pb n="9" facs="tcp:46150:7"/>
+               <lg>
+                  <l>But here and there we find a hopeful Lad,</l>
+                  <l>That has no Inclination to be bad.</l>
+                  <l>But here and there grows an Ingenious Plant,</l>
+                  <l>That minds his Learning, knowing Learnings want.</l>
+                  <l>But what Arithmetician can compute,</l>
+                  <l>The thouſand part of Plants that bear no Fruit?</l>
+               </lg>
+               <lg>
+                  <l>Blind Ignorance clear Informations need,</l>
+                  <l>Let doubtful minds ſound confirmations heed.</l>
+               </lg>
+               <lg>
+                  <l>Brave Spirits, when their Fortunes loweſt run,</l>
+                  <l>Should greateſt ſeem, like the declining Sun.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Baccus</hi> his Cheeks with laughing are full blown,</l>
+                  <l>To ſee Men to ſuch height of Folly grown,</l>
+                  <l>By drinking others healths, to loſe their own.</l>
+               </lg>
+               <lg>
+                  <l>But Sure the Great Creator of the Vine,</l>
+                  <l>Never intended his heart-chearing Wine,</l>
+                  <l>On purpoſe to transform Men into Swine.</l>
+               </lg>
+               <lg>
+                  <l>Before you, Set thoſe brave Examples, which</l>
+                  <l>The Chriſtal Mirrours of the world appear:</l>
+                  <l>By imitating Them, your Self Inrich,</l>
+                  <l>And prove another Star in Virtues Sphear.</l>
+                  <l>This is the way baſe Vice to trample down,</l>
+                  <l>And gain thoſe Virtues which may gain Renown,</l>
+               </lg>
+               <lg>
+                  <l>By Diligence we gain Intelligence;</l>
+                  <l>Experience followes, Source of Excellence.</l>
+               </lg>
+               <pb n="10" facs="tcp:46150:8"/>
+               <lg>
+                  <l>Behold how Fortunes billowes curle and ſwell,</l>
+                  <l>Mounting to Heav'n, then plunging down to Hell.</l>
+               </lg>
+               <lg>
+                  <l>Birth rears Man's Fabrick of Fleſh, Bones and Skin:</l>
+                  <l>But Breeding furniſhes the Houſe within.</l>
+               </lg>
+               <lg>
+                  <l>Beyond the Golden Mean, ſtrive not to go:</l>
+                  <l>His wants are boundleſs whoſe deſires are ſo.</l>
+               </lg>
+            </div>
+            <div n="C" type="section">
+               <pb n="11" facs="tcp:46150:8"/>
+               <head>C</head>
+               <lg>
+                  <l>COunt that day loſt whoſe low-deſcending Sunne,</l>
+                  <l>Views from your hand no noble Action done.</l>
+               </lg>
+               <lg>
+                  <l>Clear-ſighted Reaſon, and Sublimeſt Sence,</l>
+                  <l>Submit their Crowns to Wiſdoms Influence.</l>
+               </lg>
+               <lg>
+                  <l>Contend not with a Man of greater power:</l>
+                  <l>By Land and Sea the Great the Leſs devour.</l>
+               </lg>
+               <lg>
+                  <l>Crown the Donations of thy Friends with Praiſe:</l>
+                  <l>On thy own Donatives no Trophies raiſe.</l>
+               </lg>
+               <lg>
+                  <l>Cenſure none raſhly; for not even the beſt,</l>
+                  <l>Can humane Nature of her Faults deveſt.</l>
+               </lg>
+               <lg>
+                  <l>Contend with none, hotly with none debate,</l>
+                  <l>But that a ſhort War may long Peace create.</l>
+               </lg>
+               <lg>
+                  <l>Compendious Sentences in thoſe may breed</l>
+                  <l>To Virtue love, who cannot Volumes read.</l>
+               </lg>
+               <lg>
+                  <l>Can you believe it? Scarce unleſs you ſee't,</l>
+                  <l>That a man's Tongue ſhould bind his hands and feet.</l>
+               </lg>
+               <lg>
+                  <l>Could we our paſſions and our vain Affections bridle;</l>
+                  <l>We ſhould not, as we are, be ſo extreamly idle.</l>
+               </lg>
+               <lg>
+                  <l>Conſtancy brings forth Cuſtome; Cuſtome grows</l>
+                  <l>Into a habit, from whence Wiſdom flows.</l>
+               </lg>
+               <lg>
+                  <l>Cloſe Secrecy, and wary Subtilty,</l>
+                  <l>Both Handmaids are to humane Policy.</l>
+               </lg>
+               <lg>
+                  <l>Contaminated Minds mind Mundane things,</l>
+                  <l>But Minds Serene mount with Celeſtial wings.</l>
+               </lg>
+               <pb n="12" facs="tcp:46150:9"/>
+               <lg>
+                  <l>Common it is for men to looſe their Reins</l>
+                  <l>To pleaſures, till thoſe pleaſures prove their pains.</l>
+               </lg>
+               <lg>
+                  <l>Count God's Eternal WORD thy nobleſt Treaſure;</l>
+                  <l>Which read, and practic'd, yields Eternal pleaſure.</l>
+               </lg>
+               <lg>
+                  <l>CHRIST's Rules of Life will your Lifes life improve,</l>
+                  <l>With Faith, Truth, Zeal, Humilitie and Love.</l>
+               </lg>
+               <lg>
+                  <l>Could blind Ambition Honours fate fore-ſee,</l>
+                  <l>She would with gladneſs, court a mean Degree.</l>
+               </lg>
+               <lg>
+                  <l>Contentment's an Exhauſtleſs Mine of Treaſure,</l>
+                  <l>Which Pens cannot compute, no Lines lengths meaſure.</l>
+               </lg>
+               <lg>
+                  <l>Chances and Changes Spring from providence;</l>
+                  <l>Not from <hi>
+                        <g ref="char:V">Ʋ</g>topian</hi> Fortunes Influence.</l>
+               </lg>
+               <lg>
+                  <l>Content who lives with Competent Eſtate,</l>
+                  <l>Needs not to Court mens Love, nor fear their hate.</l>
+                  <l>The Worlds Grandees in higher Sphears do move;</l>
+                  <l>Yet he's more ſafe below, than thoſe Above.</l>
+                  <l>Half what he has, may, with Contentment, Serve;</l>
+                  <l>While ſome, in mid'ſt of Store, contentleſs, ſtarve.</l>
+               </lg>
+               <lg>
+                  <l>Cares ſeldome prove our Cures; care, not to care,</l>
+                  <l>Cares oft prove Introductions to diſpaire.</l>
+               </lg>
+               <lg>
+                  <l>Clemency, diffring Natures reconciles;</l>
+                  <l>And melts down Grim Moroſity, with Smiles.</l>
+               </lg>
+               <lg>
+                  <l>Courteous Behaviour, and Expreſſions prudent,</l>
+                  <l>Speak a young Man, in Virtues School, a Student.</l>
+               </lg>
+               <pb n="13" facs="tcp:46150:9"/>
+               <lg>
+                  <l>Columens, who cannot raiſe; nor lofty Towers,</l>
+                  <l>May Somthing build, according to their powers.</l>
+               </lg>
+               <lg>
+                  <l>Could we behold fair Virtues lovely Face,</l>
+                  <l>And the Celeſtial Beauty of true Grace,</l>
+                  <l>We ſhould be All Enamour'd; but we are</l>
+                  <l>Blind to all Heavenly Objects; and our Care,</l>
+                  <l>And the main Tendency of our Imployments,</l>
+                  <l>Is the poſſeſſion of Earths vain Enjoyments.</l>
+               </lg>
+            </div>
+            <div n="D" type="section">
+               <pb n="14" facs="tcp:46150:10"/>
+               <head>D</head>
+               <lg>
+                  <l>DElight makes Man ſo light, that he ſuppoſes,</l>
+                  <l>When on ſharp thorns he treads, he trips on Roſes.</l>
+               </lg>
+               <lg>
+                  <l>Did Learners know how learning might advance</l>
+                  <l>Them, they would love it, and hate Ignorance.</l>
+               </lg>
+               <lg>
+                  <l>Diligence gains Intelligence, and they</l>
+                  <l>Experience gain, to all rare Arts the way.</l>
+               </lg>
+               <lg>
+                  <l>Deſpiſe not the leaſt peice of Art that may</l>
+                  <l>In uſefulneſs its Excellence diſplay.</l>
+               </lg>
+               <lg>
+                  <l>Divine ſucceſs, thy Votaries we are,</l>
+                  <l>How ſoon thy ſmiles reſucitate from care!</l>
+               </lg>
+               <lg>
+                  <l>Do nothing raſhly; Raſhneſs nume'rous ways</l>
+                  <l>The raſh Attempter to Contempt betrays.</l>
+               </lg>
+               <lg>
+                  <l>Deſpair Damnation leads in Chains, and brings</l>
+                  <l>Thouſands of Scorpions, with Soul-vexing ſtings.</l>
+               </lg>
+               <lg>
+                  <l>Depreſſed Virtue, like the Palm, oppreſt,</l>
+                  <l>Raiſes more high, her Heaven ſaluting Creſt.</l>
+               </lg>
+               <lg>
+                  <l>Dangers lie dormont oft, till circumſpection</l>
+                  <l>Be loſt, and then reduce us to ſubjection.</l>
+               </lg>
+               <lg>
+                  <l>Divine Contentment's an exhauſtleſs ſtore,</l>
+                  <l>He that's content, complains not that he's poor.</l>
+               </lg>
+               <lg>
+                  <l>Deſpiſe not Mortals of a mean Eſtate,</l>
+                  <l>Since ignorant you are of your own Fate.</l>
+               </lg>
+               <lg>
+                  <l>Deſtruction gapes for thoſe who hate Inſtruction,</l>
+                  <l>But love to Learning's Wiſdoms Introduction.</l>
+               </lg>
+               <pb n="15" facs="tcp:46150:10"/>
+               <lg>
+                  <l>Drink, Dice and Drabs, three dange'rous Dees, do call</l>
+                  <l>For a fourth D, which fourth is worſt of all,</l>
+               </lg>
+               <lg>
+                  <l>Depend on others promiſes with hope,</l>
+                  <l>When you of Sand can make a Cable Rope.</l>
+               </lg>
+               <lg>
+                  <l>Did we but know our nearneſs to the Grave,</l>
+                  <l>What Thoughts, what Cogitations ſhould we have.</l>
+               </lg>
+               <lg>
+                  <l>Defer not till to morrow to Eſſay,</l>
+                  <l>What worthy Acts you can perform to day.</l>
+               </lg>
+               <lg>
+                  <l>Did all men, by conſent, give Peace her Soveraigntie,</l>
+                  <l>Such, as th' Emperial Heav'n, this lower world might be.</l>
+               </lg>
+               <lg>
+                  <l>Diſdain not ſuch as are with Virtues crown'd,</l>
+                  <l>They are, or ſhall, or ought to be renown'd.</l>
+               </lg>
+               <lg>
+                  <l>Diſpraiſe cannot depreſs; nor Commendations</l>
+                  <l>Mount wiſe mens conſtant Minds above their Stations.</l>
+               </lg>
+               <lg>
+                  <l>Directions and Inſtructions, of the wiſe,</l>
+                  <l>Beyond fine Gold, or choiceſt Jewels prize.</l>
+               </lg>
+               <lg>
+                  <l>Diſcretion, Engines, and choice Rules prepares,</l>
+                  <l>Whereby to regulate your juſt Affairs.</l>
+               </lg>
+               <lg>
+                  <l>Deſire is a vaſt, boundleſs Ocean,</l>
+                  <l>Which ſtill is boyling, ſtill in motion found;</l>
+                  <l>And all the Lines, made ſince Sol's Race began,</l>
+                  <l>Spliced into one, would prove too ſhort to ſound.</l>
+                  <l>This bottomleſs, and ſhoreleſs Sea: few here</l>
+                  <l>Do Navigate, that by the Compaſs Steere.</l>
+               </lg>
+            </div>
+            <div n="E" type="section">
+               <pb n="16" facs="tcp:46150:11"/>
+               <head>E</head>
+               <lg>
+                  <l>EXtreams produce Extreams: Extreams avoid,</l>
+                  <l>Extreams without Extreams are not enjoy'd.</l>
+               </lg>
+               <lg>
+                  <l>Exalted Notions, mounted on Wits wings;</l>
+                  <l>With florid Strains, are acceptable Things:</l>
+                  <l>But ſolid Reaſon, and ſound Sence, the wiſe,</l>
+                  <l>Beyond Youth-pleaſing, Airy Trifles, prize.</l>
+               </lg>
+               <lg>
+                  <l>Encomiums ſweet, or foureſt Calumnies,</l>
+                  <l>Alike are, to the Virtuous and Wiſe.</l>
+               </lg>
+               <lg>
+                  <l>Embrace all opportunities to day:</l>
+                  <l>Time, Tide, and Carriers, will for no man ſtay.</l>
+               </lg>
+               <lg>
+                  <l>Even then, when Age Death's ſummons muſt obey,</l>
+                  <l>Moſt greedily the Duſt hoards up the Clay.</l>
+               </lg>
+               <lg>
+                  <l>Exalted thought on Contemplations Wings,</l>
+                  <l>Soar up to the Sublimitie of Things.</l>
+               </lg>
+               <lg>
+                  <l>Experience is the Clue, whereby we may,</l>
+                  <l>Find thorough Arts puzling Labyrinths, the Way.</l>
+               </lg>
+               <lg>
+                  <l>Expand your Souls rare Faculties, that all</l>
+                  <l>May honour their Immenſe ORIGINAL.</l>
+               </lg>
+               <lg>
+                  <l>Earths Quinteſſence we in contentment find,</l>
+                  <l>Contentment is a Kingdom to the Mind.</l>
+               </lg>
+               <lg>
+                  <l>Eaſier, and ſooner, Learning's loſt than gain'd,</l>
+                  <l>If by freſh Applications not maintain'd.</l>
+               </lg>
+               <lg>
+                  <l>Every ſwift-wing'd moment in the day,</l>
+                  <l>Carries its length of our ſhort Life away.</l>
+               </lg>
+               <pb n="17" facs="tcp:46150:11"/>
+               <lg>
+                  <l>Extreamly much that man himſelf forgets,</l>
+                  <l>Who, by new wrangling, thinks to pay old debts.</l>
+               </lg>
+               <lg>
+                  <l>Eſtates to gain, men toyle and break their Reſt;</l>
+                  <l>But Competency with Content is Beſt.</l>
+               </lg>
+               <lg>
+                  <l>Endeavour ſo to live, and ſo to dye;</l>
+                  <l>As to enjoy a bleſt Eternity.</l>
+               </lg>
+               <lg>
+                  <l>Eaſie it is to write, but to write well</l>
+                  <l>Is very hard; much harder to Excel.</l>
+               </lg>
+               <lg>
+                  <l>Envy and Emulation are two things,</l>
+                  <l>For Emulation Spurs, but Envy Stings.</l>
+               </lg>
+               <lg>
+                  <l>Extreams produce Extreams; the Brood of Vice</l>
+                  <l>Can multiply to Legions in a trice.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Eumenes</hi> would to no man yield the praiſe</l>
+                  <l>Of Valour, while his Arm his Sword could raiſe.</l>
+               </lg>
+               <lg>
+                  <l>Endeavour to ſuppreſs Domeſtick Jars,</l>
+                  <l>For Civil, are the moſt uncivil Wars.</l>
+               </lg>
+               <lg>
+                  <l>Envies curſt brood their own Tormenters are:</l>
+                  <l>While thoſe moſt envy'd, ſtill the better fare.</l>
+               </lg>
+               <lg>
+                  <l>Endeavour ſtill, that your Capacious Mind,</l>
+                  <l>May with the moſt Eſſential parts be lin'd.</l>
+               </lg>
+               <lg>
+                  <l>Eternal Happineſs is gain'd in Time:</l>
+                  <l>For when Time's Sand ſhall totally be run,</l>
+                  <l>Then will there be no Virtues Hill to climbe;</l>
+                  <l>Acts of Repentance cannot then be done.</l>
+                  <l>O, therefore All your Strength, and Might apply,</l>
+                  <l>In time, to gain a bleſſ'd ETERNITY.</l>
+               </lg>
+            </div>
+            <div n="F" type="section">
+               <pb n="18" facs="tcp:46150:12"/>
+               <head>F</head>
+               <lg>
+                  <l>FRom God to <hi>Adam,</hi> did choice Knowledge flow:</l>
+                  <l>Which ſtill deſcends to all his Sons below.</l>
+               </lg>
+               <lg>
+                  <l>For Toys and Trifles we contend, and fight;</l>
+                  <l>And out Concerns far more Subſtantial Slight.</l>
+               </lg>
+               <lg>
+                  <l>For were it better to be ignorant,</l>
+                  <l>Than to be learned, and true Grace to want.</l>
+               </lg>
+               <lg>
+                  <l>Fix not your mind on Features, Lips or Eyes;</l>
+                  <l>But only love the Virtuous and Wiſe.</l>
+               </lg>
+               <lg>
+                  <l>Fair, Modeſt, Wiſe, let my Beloved be,</l>
+                  <l>And let me live deſerving ſuch a She.</l>
+               </lg>
+               <lg>
+                  <l>Few need reſtraining Curbs in Virtues Race:</l>
+                  <l>But moſt want Spur's to make them mend their pace.</l>
+               </lg>
+               <lg>
+                  <l>Friends, Books, a chearful heart, a Conſcience cleare.</l>
+                  <l>Are the moſt choice Companions we find here.</l>
+               </lg>
+               <lg>
+                  <l>From a Foul heart, aſſends to lying Lips</l>
+                  <l>A little Demon, and from thence he skips.</l>
+               </lg>
+               <lg>
+                  <l>From glozing Adulation keep your Tongue;</l>
+                  <l>A ſmooth deſembler cheats you with a Song.</l>
+               </lg>
+               <lg>
+                  <l>Fair Wrighting then to Excellence doth riſe</l>
+                  <l>Moſt, when the Pen is moſt in Exerciſe.</l>
+               </lg>
+               <lg>
+                  <l>Fools, even at Schools, Squander their time away,</l>
+                  <l>As if they went only to learn to Play.</l>
+               </lg>
+               <lg>
+                  <l>Freſh proſp'rous Gales their duty may perform,</l>
+                  <l>Yet leave us to the mercy of a Storm.</l>
+               </lg>
+               <lg>
+                  <l>For Profit, and for Pleaſure, thoſe great Ends,</l>
+                  <l>The wiſer ſort delight in Books, and Friends.</l>
+               </lg>
+               <pb n="19" facs="tcp:46150:12"/>
+               <lg>
+                  <l>Fondly affect not a vain minutes breath;</l>
+                  <l>But Wiſely, before Death, prepare for Death.</l>
+               </lg>
+               <lg>
+                  <l>From Labour, Wine gives the hands liberty;</l>
+                  <l>And ſets the head on work moſt furiouſly.</l>
+               </lg>
+               <lg>
+                  <l>Find Meat and Drink, that will all Palates pleaſe,</l>
+                  <l>My Lines ſhall Pleaſe all humours with like eaſe.</l>
+               </lg>
+               <lg>
+                  <l>Fame of the nobleſt kind, ſprings from theſe Sources;</l>
+                  <l>Good Life; Behaviour fair; diſcreet Diſcourſes.</l>
+               </lg>
+               <lg>
+                  <l>Fierce Diſputations, Tranſportations prove,</l>
+                  <l>And Diſputants from ſence, and Truth remove.</l>
+               </lg>
+               <lg>
+                  <l>From Orb, to Orb, a wiſe man can remove;</l>
+                  <l>So cannot Planets which command above.</l>
+               </lg>
+               <lg>
+                  <l>For Virtues ſake; now in your youthful prime</l>
+                  <l>Be a good Husband of your precious Time.</l>
+                  <l>Make Action Miſtris of your beſt Affections,</l>
+                  <l>Court her, She's beautiful, beyond objections.</l>
+                  <l>She Crowns her Lovers with the beſt of things,</l>
+                  <l>And gains them favour with the beſt of Kings.</l>
+               </lg>
+               <lg>
+                  <l>For hopeful Youths, that would be happy Men,</l>
+                  <l>There lies a plenteous Portion in the Pen;</l>
+                  <l>Which being by ingenious pains, drawn forth,</l>
+                  <l>Will ſhew, to admiration, it's vaſt worth.</l>
+                  <l>Pen, Ink, and Paper, therefore ſoon provide,</l>
+                  <l>And let them be Ingeniouſly apply'd.</l>
+               </lg>
+               <lg>
+                  <l>Fair Writings Famous Univerſal Art,</l>
+                  <l>The Pen<hi rend="sup">5</hi>, the Hand<hi rend="sup">4</hi>, the Eye<hi rend="sup">3</hi>, the Head<hi rend="sup">2</hi>, and Heart<hi rend="sup">1</hi>,</l>
+                  <l>Conceives<hi rend="sup">1</hi>, Promotes<hi rend="sup">2</hi>, Views<hi rend="sup">3</hi>, Moves<hi rend="sup">4</hi>, and does Impart<hi rend="sup">5</hi>.</l>
+               </lg>
+            </div>
+            <div n="G" type="section">
+               <pb n="20" facs="tcp:46150:13"/>
+               <head>G</head>
+               <lg>
+                  <l>GRace, with a Heavenly hand, tunes Natures Harp,</l>
+                  <l>And makes that Note a Mean, which was a Sharp.</l>
+               </lg>
+               <lg>
+                  <l>Gold makes an Adamantine Conſcience ſoft,</l>
+                  <l>And a ſoft Conſcience turns to Flint, as oft.</l>
+               </lg>
+               <lg>
+                  <l>Great Debts require the greater care to pay;</l>
+                  <l>Wiſe men provide againſt th' accompting day.</l>
+               </lg>
+               <lg>
+                  <l>God in your thoughts retain with Reverence;</l>
+                  <l>Whoſe works are all ſtupendious and Immenſe.</l>
+               </lg>
+               <lg>
+                  <l>Go, Run, Ride, Swim, uſe every honeſt way,</l>
+                  <l>Rather than Poverties Commands obey.</l>
+               </lg>
+               <lg>
+                  <l>God diſtributes his Gifts as he ſees fit;</l>
+                  <l>He others gives more Wealth, and thee more VVit.</l>
+               </lg>
+               <lg>
+                  <l>God, Mens deſires denies them oft, that they</l>
+                  <l>May be more happy in his heav'nly way.</l>
+               </lg>
+               <lg>
+                  <l>God's Regiſter, the Conſcience, notes down all</l>
+                  <l>Our Actions juſt, or unjuſt, great or ſmall.</l>
+               </lg>
+               <lg>
+                  <l>God Eſſence gave to Heav'ns Expanſed Frame,</l>
+                  <l>And ſtill ſuſtaines, maintains, and rules the ſame.</l>
+               </lg>
+               <lg>
+                  <l>Give him leave (or he'l take it) to be Stout,</l>
+                  <l>VVho is with heaps of Riches fenc'd about.</l>
+               </lg>
+               <lg>
+                  <l>God's a true Spirit; Truths pure Fountain; He</l>
+                  <l>In Spirit, and in Truth will worſhip'd be.</l>
+               </lg>
+               <lg>
+                  <l>Geographie the Worlds vaſt Compaſs ſtiles,</l>
+                  <l>Twenty one thouſands, and ſix hundred miles.</l>
+               </lg>
+               <pb n="21" facs="tcp:46150:13"/>
+               <lg>
+                  <l>God provides Graſs, and other Meats for Beaſts,</l>
+                  <l>And with thoſe Beaſts, Man, their Commander Feaſts.</l>
+               </lg>
+               <lg>
+                  <l>Greatneſs and Goodneſs make a man compleat:</l>
+                  <l>But few there are, that are both good and great.</l>
+               </lg>
+               <lg>
+                  <l>Gameſters ſtill gape for Gain; but how can thoſe,</l>
+                  <l>That loſe be Gainers, ſince even Gainers loſe.</l>
+               </lg>
+               <lg>
+                  <l>God's Mercy finds beſt opportunity,</l>
+                  <l>When Man groans under worſt of Miſery.</l>
+               </lg>
+               <lg>
+                  <l>Grace, Virtue, Prudence, and productive Parts,</l>
+                  <l>May bid defiance to grim Envies Darts.</l>
+               </lg>
+               <lg>
+                  <l>Gorgons, nor Goblins, can their Minds affright,</l>
+                  <l>VVho truſt in God, and in his Word delight.</l>
+               </lg>
+               <lg>
+                  <l>Give a true eſtimation of the worth,</l>
+                  <l>Of All that under Heav'n, the Earth brings forth.</l>
+                  <l>Then think what you ſhall gain, to buy the whole,</l>
+                  <l>At the dear price of your Immortal Soul.</l>
+                  <l>O wonder! this vaſt world, and All therein,</l>
+                  <l>Cannot All ballance with one Mortal Sin.</l>
+               </lg>
+               <lg>
+                  <l>Gracious is God, to offer Means of Grace;</l>
+                  <l>The only means to climb to Glories Mount.</l>
+                  <l>VVhich before time has run his long-ſpun Race</l>
+                  <l>Embrace; that you may give a juſt accompt,</l>
+                  <l>VVhen Time ſhall be no more; and then may ſtand</l>
+                  <l>VVith ever-bleſſed Souls, at CHRIST's right hand.</l>
+               </lg>
+            </div>
+            <div n="H" type="section">
+               <pb n="22" facs="tcp:46150:14"/>
+               <head>H</head>
+               <lg>
+                  <l>HE well begins to run in Virtues Race,</l>
+                  <l>Who ſeparates the Noble from the Baſe.</l>
+               </lg>
+               <lg>
+                  <l>He that would learn to be an honeſt Man,</l>
+                  <l>Let him view all the vicious ways he can;</l>
+                  <l>And note their various windings and their Ends;</l>
+                  <l>This ſure, will make him one of Virtues Friends.</l>
+               </lg>
+               <lg>
+                  <l>He that begins to run in Virtues Race</l>
+                  <l>Muſt not look back, but ſtrive to mend his pace.</l>
+               </lg>
+               <lg>
+                  <l>Him I eſteem a man of the firſt Rate,</l>
+                  <l>Who lives contented with a mean Eſtate.</l>
+               </lg>
+               <lg>
+                  <l>He who Time's Golden Sand does well apply,</l>
+                  <l>Lays Earneſt for a bleſt Eternity.</l>
+               </lg>
+               <lg>
+                  <l>He's truly wiſe, he's a right honeſt Lad,</l>
+                  <l>Who rightly can diſtinguiſh Good from Bad:</l>
+                  <l>And having made this nice Diſtinction right,</l>
+                  <l>Does hate the bad, and in the good delight.</l>
+               </lg>
+               <lg>
+                  <l>His mind feels Pangs of Death and pains of Hell,</l>
+                  <l>Wherein Divine contentment hates to dwell.</l>
+               </lg>
+               <lg>
+                  <l>He bravely all Calumnious Baſeneſs ſcorns,</l>
+                  <l>Whoſe unſtain'd mind true Honeſty adorns.</l>
+               </lg>
+               <lg>
+                  <l>How wiſe are they, by whom the Dies are thrown,</l>
+                  <l>To know, if their own Mony be their own!</l>
+               </lg>
+               <lg>
+                  <l>How ſoon might he, that's a meer Dunce by Nature,</l>
+                  <l>By Induſtry become another Creature!</l>
+               </lg>
+               <pb n="23" facs="tcp:46150:14"/>
+               <lg>
+                  <l>He's truly learned whoſe tenatious Brain,</l>
+                  <l>The Quinteſſence of Wiſdom can retain;</l>
+                  <l>And can, both for his own, and others Uſe,</l>
+                  <l>In ſeaſon the rare Fruits thereof produce;</l>
+                  <l>But who loves Ignorance before choice Knowledge,</l>
+                  <l>A Doctor may commence in <hi>Gotham</hi> College.</l>
+               </lg>
+               <lg>
+                  <l>How many by wiſe management of Time,</l>
+                  <l>From low Degrees, have mounted to ſublime!</l>
+               </lg>
+               <lg>
+                  <l>How happily ſhould we vain Mortals live,</l>
+                  <l>Could we good Councel take, as ſoon as give!</l>
+               </lg>
+               <lg>
+                  <l>He that the moſt his own will can deny,</l>
+                  <l>With Gods moſt holy will may moſt comply.</l>
+               </lg>
+               <lg>
+                  <l>How pleaſantly they have the World at will,</l>
+                  <l>Who can their Bags with Gold and Silver fill;</l>
+               </lg>
+               <lg>
+                  <l>His ripe Diſcretion always is in ſeaſon,</l>
+                  <l>Who can his Paſſions ballance with right Reaſon.</l>
+               </lg>
+               <lg>
+                  <l>He to ſome height of Knowledge does advance,</l>
+                  <l>Who knows how to conceal his Ignorance.</l>
+               </lg>
+               <lg>
+                  <l>Hear, See, and ſay the beſt; for that's the way,</l>
+                  <l>To live in peace, as wiſe men know and ſay.</l>
+               </lg>
+               <lg>
+                  <l>He that receives a Courteſie, remains,</l>
+                  <l>Till his Retaliation, bound in Chains.</l>
+               </lg>
+               <lg>
+                  <l>Health before VVealth prefer; VVealth commonly,</l>
+                  <l>Is Vaſſal to ingenious Induſtry.</l>
+               </lg>
+               <pb n="24" facs="tcp:46150:15"/>
+               <lg>
+                  <l>How will he anſwer't on the Reck'ning day,</l>
+                  <l>Who runs in Debt, and takes no care to pay?</l>
+               </lg>
+               <lg>
+                  <l>Husband your Time well; Squander not away,</l>
+                  <l>The pretious patrimony of a day.</l>
+               </lg>
+               <lg>
+                  <l>How many thouſands pleaſe themſelves to Death!</l>
+                  <l>Whoſe Viands, choice and rare, obſtruct their Breath.</l>
+               </lg>
+               <lg>
+                  <l>He that's exalted on the Wings of Praiſe,</l>
+                  <l>Is wiſe, if humbly, he himſelf ſurveys.</l>
+               </lg>
+               <lg>
+                  <l>How many beauteous, Face-affecting Laſſes,</l>
+                  <l>Neglect their Graces, to attend their Glaſſes.</l>
+               </lg>
+               <lg>
+                  <l>How dark's the Leſſer Worlds ſad Winters Night,</l>
+                  <l>VVhen Reaſons radiant Rays do not enlight.</l>
+               </lg>
+               <lg>
+                  <l>Having a Conſcience uncontaminate,</l>
+                  <l>Mind not what vulgar Tongues of thee may Prate.</l>
+               </lg>
+               <lg>
+                  <l>He that all others Buſineſs lets alone,</l>
+                  <l>Has the more time wherein to mind his own.</l>
+               </lg>
+               <lg>
+                  <l>Hope's that Alexipharmical, whoſe rare,</l>
+                  <l>And Sovereign Virtue antidotes Deſpair.</l>
+               </lg>
+               <lg>
+                  <l>Haſt thou wrong'd any Man? make ſatisfaction:</l>
+                  <l>And ſcorn to Stoop to an Ignoble action.</l>
+               </lg>
+               <lg>
+                  <l>How quickly Learners would by too much Play,</l>
+                  <l>Learn to forget the buſineſs of the Day!</l>
+               </lg>
+               <lg>
+                  <l>Here the four Virtues Cardinal advance;</l>
+                  <l>Fortitude, Prudence, Juſtice, Temperance.</l>
+               </lg>
+               <pb n="25" facs="tcp:46150:15"/>
+               <lg>
+                  <l>Hope not to rectify anothers Tongue,</l>
+                  <l>Since for your government your own's too ſtrong.</l>
+               </lg>
+               <lg>
+                  <l>Happy's the man, that is from Heav'n endu'd,</l>
+                  <l>With Prudence, Juſtice, Temp'rance, Fortitude.</l>
+               </lg>
+               <lg>
+                  <l>He's a wright noble Soul, who bravely can forſake,</l>
+                  <l>His pleaſure, when therein he might moſt pleaſure take.</l>
+               </lg>
+               <lg>
+                  <l>He whoſe Inheritance is only Time,</l>
+                  <l>Muſt manage that, with an ingenious Care;</l>
+                  <l>For Arts, and Parts, though never ſo ſublime,</l>
+                  <l>Without our times improvement will impair.</l>
+                  <l>Your pretious moments ſquander not away;</l>
+                  <l>To the Induſtrious, every Month is <hi>May.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>He that's injurious to another, he</l>
+                  <l>At the ſame time, ſo to himſelf muſt be.</l>
+               </lg>
+               <lg>
+                  <l>He that for Pleaſure, forfeits his Eſtate,</l>
+                  <l>Has bought repentance at too dear a Rate.</l>
+               </lg>
+               <lg>
+                  <l>How joyful is a man, what ſatisfaction</l>
+                  <l>He reaps, having perform'd ſome noble Action!</l>
+               </lg>
+               <lg>
+                  <l>How many have been totally deſtroy'd,</l>
+                  <l>For want of being honeſtly imploy'd.</l>
+               </lg>
+               <lg>
+                  <l>He that contends with uncontrouled Tongues,</l>
+                  <l>May loſe his Reaſon, and conſume his Lungs.</l>
+               </lg>
+               <lg>
+                  <l>He that loves Labour, courts immortal Fame;</l>
+                  <l>But Sloath is always waited on by Shame.</l>
+               </lg>
+               <pb n="26" facs="tcp:46150:16"/>
+               <lg>
+                  <l>Hate Senſual Love; Love Love that may advance</l>
+                  <l>The Lover, to Loves bles'd Inheritance.</l>
+               </lg>
+               <lg>
+                  <l>Honours may leave their Owners; Riches may</l>
+                  <l>Aſſume ſwift wings, and quickly fly away:</l>
+                  <l>But Learning, and the knowledge of rare Arts,</l>
+                  <l>That man the moſt enjoys that moſt imparts.</l>
+                  <l>Endeavour that your Breaſt and Brain,</l>
+                  <l>The beſt of Learnings Treaſures may retain.</l>
+               </lg>
+            </div>
+            <div n="I" type="section">
+               <pb n="27" facs="tcp:46150:16"/>
+               <head>I</head>
+               <lg>
+                  <l>IF but one hour in every day you move</l>
+                  <l>Virtues Courſe, 'twill great advancement prove.</l>
+               </lg>
+               <lg>
+                  <l>Innumerable Loſſes men ſuſtain,</l>
+                  <l>By greedily endeavouring to gain.</l>
+               </lg>
+               <lg>
+                  <l>Immenſe <hi>Pecunia,</hi> with Imperious hand,</l>
+                  <l>All the Earths beſt Enjoyments does command.</l>
+               </lg>
+               <lg>
+                  <l>In vain, vain Man deſires ſtill to enjoy</l>
+                  <l>Thoſe Things, which were but lent him to imploy.</l>
+               </lg>
+               <lg>
+                  <l>Innumerable Sins inflame our Score:</l>
+                  <l>What ſhould we do were not God's Mercies more?</l>
+               </lg>
+               <lg>
+                  <l>If for my Friend I nineteen favours do,</l>
+                  <l>All's nought, if I do not the twentieth too.</l>
+               </lg>
+               <lg>
+                  <head>The Ingenious Youth's Reſolution.</head>
+                  <l>I'le Write ſo fair, that ev'ry Line ſhall be</l>
+                  <l>A ſparkling Jewel for the World to ſee:</l>
+                  <l>And every word ſhall be a radiant Gem</l>
+                  <l>Such as the nobleſt Souls ſhall not contemn.</l>
+                  <l>All various Shapes of Beaſts, Birds, Fiſh and men,</l>
+                  <l>Shall Run, Fly, Swim, and march from my Swift Pen.</l>
+               </lg>
+               <lg>
+                  <l>If you eſteem a Noble Reputation,</l>
+                  <l>With Sons of Virtue have your Converſation.</l>
+               </lg>
+               <lg>
+                  <l>In your Diſcourſes be brief, ſound and clear;</l>
+                  <l>Let no Impertinences grate the Ear.</l>
+               </lg>
+               <lg>
+                  <l>If the free Ayr could be confin'd and Sold,</l>
+                  <l>Thoſe would live longeſt who produce moſt Gold.</l>
+               </lg>
+               <pb n="28" facs="tcp:46150:17"/>
+               <lg>
+                  <l>If to excel the Beſt you Emulate,</l>
+                  <l>The moſt-excelling Patterns Imitate.</l>
+                  <l>And when your Pen, your Penſil, or your Graver</l>
+                  <l>Hath equal'd thoſe, ſtrive to produce ſtill braver.</l>
+                  <l>Thus well reſolv'd, and keeping conſtant pace,</l>
+                  <l>You may prove firſt in Arts renowned Race.</l>
+               </lg>
+               <lg>
+                  <l>In Hells out-courts that wretched Soul appears,</l>
+                  <l>Who lives a Slave to Jealouſies and Fears.</l>
+               </lg>
+               <lg>
+                  <l>If worſe than we, ſhould prove our Generation,</l>
+                  <l>Abomination will turn Recreation.</l>
+               </lg>
+               <lg>
+                  <l>In dubious Matters prudent Counſel chuſe,</l>
+                  <l>This, <hi>Solomon</hi> himſelf, would not refuſe.</l>
+               </lg>
+               <lg>
+                  <l>If we gain Arts with induſtry, 'tis fair:</l>
+                  <l>But to come, ſee, and overcome, 'tis rare.</l>
+               </lg>
+               <lg>
+                  <l>If thy own Country be for thee too ſmall,</l>
+                  <l>Begin betimes to Travel o're Earth Ball.</l>
+               </lg>
+               <lg>
+                  <l>Imploy your Wiſdom, all your pow'rs apply,</l>
+                  <l>In time to gain a bleſt ETERNITY.</l>
+               </lg>
+               <lg>
+                  <l>If thy Friend flinches, let that Friend therefore,</l>
+                  <l>Come to thy Boſomes Cabinet no more.</l>
+               </lg>
+               <lg>
+                  <l>Injuſtice offer not unto the juſt;</l>
+                  <l>God will revenge, they truſt, in whom they truſt.</l>
+               </lg>
+               <lg>
+                  <l>If every idle word requires account,</l>
+                  <l>To what will Oaths and Blaſphemies amount.</l>
+               </lg>
+               <lg>
+                  <l>If ſome Lines want ſuch Wit as you could wiſh,</l>
+                  <l>Know, we're not bound to Sauce you every Diſh.</l>
+               </lg>
+               <pb n="29" facs="tcp:46150:17"/>
+               <lg>
+                  <l>In this Worlds Maze thouſands of ways men run,</l>
+                  <l>With full ſpeed to undo, or be undon.</l>
+               </lg>
+               <lg>
+                  <l>If other men with Arts, and Parts out-vie;</l>
+                  <l>Strive to tranſcend them all in Induſtrie.</l>
+               </lg>
+               <lg>
+                  <l>If Elegantly how to Write you'd know;</l>
+                  <l>Read ſuch Compoſures, as are written ſo.</l>
+               </lg>
+               <lg>
+                  <l>If men, by ſinning, any Good could win,</l>
+                  <l>They would not want it, for the want of Sin.</l>
+               </lg>
+               <lg>
+                  <l>If to be cheated you no Stomach have,</l>
+                  <l>Mens Deeds, not words, your beſt attention crave.</l>
+               </lg>
+               <lg>
+                  <l>In hot Diſputes men ſtrain, Mouthe, and rant high;</l>
+                  <l>Striving for Victory, not VERITY.</l>
+               </lg>
+               <lg>
+                  <l>In greateſt Calms, for greateſt Storms prepare,</l>
+                  <l>Wiſdom's Grand Admonition, is, Beware.</l>
+               </lg>
+               <lg>
+                  <l>If our Lifes Glaſs could thouſand Ages run,</l>
+                  <l>Yet, at the laſt thoſe thouſands would be don.</l>
+               </lg>
+               <lg>
+                  <l>If Portion, to thy parts Proportion bears,</l>
+                  <l>Give Thanks to him, who gives to all their Shares.</l>
+               </lg>
+               <lg>
+                  <l>In his own preſence no man's Praiſe proclaim,</l>
+                  <l>Nor In his abſence any one defame.</l>
+               </lg>
+               <lg>
+                  <l>If your hand works not to procure a Stock,</l>
+                  <l>'Tis ten to one, but it your Mouth will mock.</l>
+               </lg>
+               <lg>
+                  <l>If you would conquer your Souls Mortal Foes,</l>
+                  <l>To armed Vices, Virtues arm'd oppoſe,</l>
+               </lg>
+               <pb n="30" facs="tcp:46150:18"/>
+               <lg>
+                  <l>In Choice and Judgment he Extreamly errs,</l>
+                  <l>Who Strangers, before well-known Friends prefers,</l>
+               </lg>
+               <lg>
+                  <l>Imployment prove Improvement of our parts:</l>
+                  <l>And Practice gains Experience in all Arts.</l>
+               </lg>
+               <lg>
+                  <l>Into Arts Labyrinths, or Natures Pry,</l>
+                  <l>Be bold Beneath, but not above the Skie.</l>
+               </lg>
+               <lg>
+                  <l>Is your State low? would you to Riches ſoar?</l>
+                  <l>Abandon all thoſe ways that made you Poor.</l>
+               </lg>
+               <lg>
+                  <l>If you intend to help a Friend at Need,</l>
+                  <l>Do it with all Imaginable Speed.</l>
+               </lg>
+               <lg>
+                  <l>If by fair Promiſes you Friends do gain,</l>
+                  <l>Let fair performances thoſe Friends maintain.</l>
+               </lg>
+               <lg>
+                  <l>If Induſtry produces Excellence,</l>
+                  <l>VVe multiply't to Quantities Immenſe.</l>
+               </lg>
+               <lg>
+                  <l>It is not for the want of Negligence,</l>
+                  <l>That many thouſands want Arts Excellence.</l>
+               </lg>
+               <lg>
+                  <l>If Nature gives Proportion, and rare Beauty,</l>
+                  <l>To match them with good Manners is your Duty.</l>
+                  <l>If you Proportion want, and are not fair,</l>
+                  <l>Let Grace, and Manners their defects repair.</l>
+               </lg>
+               <lg>
+                  <l>Ill Will never ſpeaks well; curs'd Spleen and Spight,</l>
+                  <l>VVere never Cordial Friends to Truth and Right.</l>
+               </lg>
+               <lg>
+                  <l>If you ſo nobly cannot Act, as you ſee another man do;</l>
+                  <l>Boldly &amp; bravely quit your ſelf, by doing what you can do.</l>
+               </lg>
+               <lg>
+                  <l>If the wiſe Gard'ner lays aſide his Knife,</l>
+                  <l>His Plants will riot in a vitious Life.</l>
+               </lg>
+            </div>
+            <div n="K" type="section">
+               <pb n="31" facs="tcp:46150:18"/>
+               <head>K</head>
+               <lg>
+                  <l>KEep Company with Virtues true Relations,</l>
+                  <l>Of uncontaminated Reputations.</l>
+               </lg>
+               <lg>
+                  <l>Knowledge that puffs up the Poſſeſſor's mind,</l>
+                  <l>Is evermore of a pernicious kind.</l>
+               </lg>
+               <lg>
+                  <l>Knowing the way, couragiouſly advance:</l>
+                  <l>And ſhun Converſe with Sons of Ignorance.</l>
+               </lg>
+               <lg>
+                  <l>Know how to time your Buſineſs; this Concern</l>
+                  <l>Puts thouſands to a loſs that are to Learn.</l>
+               </lg>
+               <lg>
+                  <l>Know thy ſelf firſt, and then begin to Scan,</l>
+                  <l>The imperfections of another Man.</l>
+               </lg>
+               <lg>
+                  <l>Keep Company with Virtues true Relations:</l>
+                  <l>Of uncontaminated Reputations.</l>
+               </lg>
+               <lg>
+                  <l>Know all Mechanicks, that for Riches ſtrive,</l>
+                  <l>To mind your Buſineſs is the way to thrive.</l>
+               </lg>
+               <lg>
+                  <l>Keep up the Top-ſail of your Reputation,</l>
+                  <l>Let none out-ſail you in your Occupation.</l>
+               </lg>
+               <lg>
+                  <l>Knew you the worth of the Pens Excellence,</l>
+                  <l>And how its Lovers it does Recompence,</l>
+                  <l>And of what high Account Accompts do make</l>
+                  <l>Knowing accomptants; then you Pains would take</l>
+                  <l>Both Night and Day (play ſhould aſide be thrown)</l>
+                  <l>To make theſe profitable Arts your own.</l>
+               </lg>
+               <lg>
+                  <l>Knaves commonly for Fools do prove Providers.</l>
+                  <l>Riches like head-ſtrong Horſes, throw their Riders.</l>
+               </lg>
+               <pb n="32" facs="tcp:46150:19"/>
+               <lg>
+                  <l>Keep Peace in thine own Breaſt, who keeps this Road,</l>
+                  <l>May bid defiance to all Wars abroad.</l>
+               </lg>
+               <lg>
+                  <l>Know you not this vain Worlds Imperious Minion,</l>
+                  <l>It is that All-commanding Quean, Opinion.</l>
+               </lg>
+               <lg>
+                  <l>Kindle no Flames of Strife: he that loves Strife,</l>
+                  <l>Hates peace; the Comfort of a Chriſtian Life.</l>
+               </lg>
+               <lg>
+                  <l>Knaves are the Bane of their own Reputation:</l>
+                  <l>The Peſt, and Caterpillers of a Nation.</l>
+               </lg>
+               <lg>
+                  <l>Kind hearts are unkind, only to themſelves;</l>
+                  <l>Whoſe Barks oft ſplit on their own Rocks and Shelves.</l>
+               </lg>
+               <lg>
+                  <l>Kidds may grow Goats; ſo young Sins may grow old,</l>
+                  <l>If you with Satans Baits dare be too bold.</l>
+               </lg>
+               <lg>
+                  <l>Kick not, nor Spurn at Government; Inferiors</l>
+                  <l>Muſt live in due obedience to Superiors.</l>
+               </lg>
+               <lg>
+                  <l>Keep at a diſtance from the Sons of Vice:</l>
+                  <l>Once known, endanger not your Souls health twice.</l>
+               </lg>
+               <lg>
+                  <l>Knock hard at Mercies Gate, and think no pains</l>
+                  <l>To hard, nor time too long for ſuch bleſs'd Gains.</l>
+               </lg>
+               <lg>
+                  <l>Kindred in Friendſhips Orb, but rarely move,</l>
+                  <l>So certainly, as Strangers, linck'd in Love.</l>
+               </lg>
+               <lg>
+                  <l>Keels ballaſted with Gold, from Ophir came;</l>
+                  <l>To inrich wiſe <hi>Solomon,</hi> and gild his Fame.</l>
+               </lg>
+               <lg>
+                  <l>Kingdoms, to Heav'ns Immenſitie, appear</l>
+                  <l>As Birds Neaſts ſmall, compar'd to Kingdoms here.</l>
+               </lg>
+               <lg>
+                  <l>Kill growing Vices; for if they Controul,</l>
+                  <l>They will deſtroy your Body and your Soul.</l>
+               </lg>
+            </div>
+            <div n="L" type="section">
+               <pb n="33" facs="tcp:46150:19"/>
+               <head>L</head>
+               <lg>
+                  <l>Lovers of Learning learned ſoon will prove,</l>
+                  <l>The half-way houſe to Learning is their love.</l>
+               </lg>
+               <lg>
+                  <l>Let brave examples your prompt mind inſpire,</l>
+                  <l>To imitate what others moſt admire.</l>
+               </lg>
+               <lg>
+                  <l>Learn ſo to live, as not to fear to dye;</l>
+                  <l>That you may dye to live Eternally.</l>
+               </lg>
+               <lg>
+                  <l>Let us not ſoar too high, nor ſink too low,</l>
+                  <l>But every one his proper Station know.</l>
+               </lg>
+               <lg>
+                  <l>Let Order, Meaſure, and Proportion make</l>
+                  <l>All Actions noble which you undertake.</l>
+               </lg>
+               <lg>
+                  <l>Labour proves light, where true Delight attends,</l>
+                  <l>Where Love begins, Induſtry bravely ends.</l>
+               </lg>
+               <lg>
+                  <l>Let no vain Pleaſures your clear Reaſon blind,</l>
+                  <l>And hate to ſeek what you abhor to find.</l>
+               </lg>
+               <lg>
+                  <l>Love covers multitudes of Faults; but hate</l>
+                  <l>Old Faults diſcovers, and does new create.</l>
+               </lg>
+               <lg>
+                  <l>Let's not deſirous be to live here long,</l>
+                  <l>Or once to Act our old Sins o're again:</l>
+                  <l>As we grow weak, Diſeaſes grow more ſtrong;</l>
+                  <l>And we complain, becauſe Complaints in Vain</l>
+                  <l>Fly from our troubled Breaſt; O therefore let</l>
+                  <l>Us Earth diſcard, and Heav'ns Aſſurance get.</l>
+               </lg>
+               <lg>
+                  <l>Let all wild Worldlings, this, unto their Sence apply,</l>
+                  <l>They moſt themſelves enjoy, who moſt themſelves deny.</l>
+               </lg>
+               <pb n="34" facs="tcp:46150:20"/>
+               <lg>
+                  <l>Love diſtant Climes, unites; in this we find,</l>
+                  <l>It is not where the Man is, but the Mind.</l>
+               </lg>
+               <lg>
+                  <l>Let <hi>Eſculape's</hi> wiſe Son, who heals thy Wound,</l>
+                  <l>Be with the Garland of thy Praiſes Crown'd.</l>
+               </lg>
+               <lg>
+                  <l>Life lives in Temperance; Intemperance,</l>
+                  <l>Moſt of all Sins, Death's Standard doth advance.</l>
+               </lg>
+               <lg>
+                  <l>Lifes nobleſt Theory good Precepts are,</l>
+                  <l>Examples ſhew Lifes practick part moſt rare.</l>
+               </lg>
+               <lg>
+                  <l>Let Moderation your requeſts commend,</l>
+                  <l>By thus demanding yo command your Friend.</l>
+               </lg>
+               <lg>
+                  <l>Lines worded well, and ſeaſon'd well with Sence,</l>
+                  <l>Have, on Ingenious Minds, great Influence.</l>
+               </lg>
+               <lg>
+                  <l>Leave Youths to their own Conſcience, and then</l>
+                  <l>How ſoon, think you, would they prove Learned Men.</l>
+               </lg>
+               <lg>
+                  <l>Learning, and the choice Documents of Truth,</l>
+                  <l>Should be infus'd into us in our Youth.</l>
+               </lg>
+               <lg>
+                  <l>Like Tares with Wheat, moſt Mens Expreſſions be,</l>
+                  <l>Complements mixt with ſmall Realitie.</l>
+               </lg>
+               <lg>
+                  <l>Learning, the Learned, before Gold prefer,</l>
+                  <l>Learning, not Gold, defies the Plunderer.</l>
+               </lg>
+               <lg>
+                  <l>Long are we gaining of a ſmall Excellence,</l>
+                  <l>Which, in ſhort time, is loſt by Negligence.</l>
+               </lg>
+               <lg>
+                  <l>Let me be juſt to all, though I ſuſtain</l>
+                  <l>Some Loſs thereby, that Loſs will turn to Gain.</l>
+               </lg>
+               <pb n="35" facs="tcp:46150:20"/>
+               <lg>
+                  <l>Looſeneſs to Faſtneſs is an Introduction,</l>
+                  <l>Men Rant and pleaſe themſelves into Diſtruction.</l>
+               </lg>
+               <lg>
+                  <l>Learn now in your Minoritie, thoſe things,</l>
+                  <l>That may in Age, lend your Diſcretion Wings</l>
+               </lg>
+               <lg>
+                  <l>Let not the choiceſt Creature Comfort have,</l>
+                  <l>The Power to denominate thee Slave.</l>
+               </lg>
+               <lg>
+                  <l>Lament wild Youth, your loſs of Blooming Prime;</l>
+                  <l>Lament your Parents pains, their Coſt and Care.</l>
+                  <l>Lament the vain miſ-ſpending of your time.</l>
+                  <l>Lament th' unhappy State wherein you are.</l>
+               </lg>
+               <lg>
+                  <l>Lament, Lament, becauſe your Lamentation,</l>
+                  <l>(Except you timely turn, and that even now)</l>
+                  <l>Can firmly promiſe you no Reſtoration,</l>
+                  <l>Of theſe loſt Pearls, whoſe price you do not know?</l>
+               </lg>
+            </div>
+            <div n="M" type="section">
+               <pb n="36" facs="tcp:46150:21"/>
+               <head>M</head>
+               <lg>
+                  <l>MEn that are gen'rous, humble, juſt and Wiſe,</l>
+                  <l>The Pageantry of the vain World deſpiſe.</l>
+               </lg>
+               <lg>
+                  <l>Man's mind, as Maſter ſhould right reaſon have,</l>
+                  <l>And evermore hold Paſſion as a Slave.</l>
+               </lg>
+               <lg>
+                  <l>Men for this Worlds poor Riches are at ſtrife,</l>
+                  <l>Neglecting thoſe of everlaſting Life.</l>
+               </lg>
+               <lg>
+                  <l>Merchants who plow the Foaming Main, their main</l>
+                  <l>Concerns muſt mind, nor ſlight the ſmalleſt Gain.</l>
+               </lg>
+               <lg>
+                  <l>Moſt, who are Rich, and Great, and can command,</l>
+                  <l>Command Inferiours with Imperious hand.</l>
+               </lg>
+               <lg>
+                  <l>Men Ignorant, aſcribe that Influence</l>
+                  <l>To Fortune which proceeds from Providence.</l>
+               </lg>
+               <lg>
+                  <l>Mens promiſes by their performance meaſure,</l>
+                  <l>Like Gypſies Knots they'r faſt or looſe at pleaſure.</l>
+               </lg>
+               <lg>
+                  <l>Men oft at Banquets more advantage gain,</l>
+                  <l>Than at thoſe Battails where are thouſands Slain.</l>
+               </lg>
+               <lg>
+                  <l>Misfortunes ſeldom come alone, but have</l>
+                  <l>Their followers, as Wave rowls after Wave.</l>
+               </lg>
+               <lg>
+                  <l>Many have vain Loquacitie lamented;</l>
+                  <l>But none their prudent Silence have repented.</l>
+               </lg>
+               <lg>
+                  <l>Mount, mount brave Soul, aſſend above the Spheres</l>
+                  <l>Of common reaſon, and inferiour Sence:</l>
+                  <l>Court Arts, improve thy parts, till there appears</l>
+                  <l>The Quinteſſence of their prime Excellence.</l>
+               </lg>
+               <pb n="37" facs="tcp:46150:21"/>
+               <lg>
+                  <l>Many mean Perſons might become Brave Gallants,</l>
+                  <l>If prudently they would imploy their Talents.</l>
+               </lg>
+               <lg>
+                  <l>Men, who in verbal Sounds do leaſt abound,</l>
+                  <l>Are always found to be the moſt profound.</l>
+               </lg>
+               <lg>
+                  <l>Millions of Inconveniences Surprize</l>
+                  <l>Us, becauſe we are our own Enemies.</l>
+               </lg>
+               <lg>
+                  <l>Man's little, little World, tranſcends the Greater,</l>
+                  <l>'Tis ſtrange, that this Compendium's the Compleater.</l>
+               </lg>
+               <lg>
+                  <l>Man is a thing of nought, yet from above,</l>
+                  <l>There dart upon him ſuch ſtrong Rays of Love,</l>
+                  <l>Like Sol's refulgent Beams, that they refine</l>
+                  <l>His Rubbiſh Nature to a Golden Mine.</l>
+               </lg>
+               <lg>
+                  <l>Much Reading, much the inſight does improve,</l>
+                  <l>The Ey-ſight, too much Reading does not Love.</l>
+               </lg>
+               <lg>
+                  <l>My Admonitions to my Loving Friend,</l>
+                  <l>Shall for no End begin, and have no End.</l>
+               </lg>
+               <lg>
+                  <l>Men fain would be thought Virtuous, though they</l>
+                  <l>Still Steer their Courſe the quite contrary way.</l>
+               </lg>
+               <lg>
+                  <l>Men promiſe fair, perform not; in this Sence,</l>
+                  <l>Exuberance is turn'd to Indigence.</l>
+               </lg>
+               <lg>
+                  <l>Man's greateſt Wealth lyes in contempt of Wealth;</l>
+                  <l>And next to that, his greateſt Wealth is Health.</l>
+               </lg>
+               <pb n="38" facs="tcp:46150:22"/>
+               <lg>
+                  <l>Mars his bold Son is for the Field or Sea.</l>
+                  <l>An Academy is the Scholar's ſhare.</l>
+                  <l>The Tradeſman in the City loves to ſtay.</l>
+                  <l>The Country hath the Husband-mans chief Care.</l>
+                  <l>The Marriner is for a Ship, or Port:</l>
+                  <l>And the gay Gallant gliſters in the Court.</l>
+               </lg>
+               <lg>
+                  <l>Might we aſſend to Excellence ſublime,</l>
+                  <l>Without a careful management of Time,</l>
+                  <l>Thouſands would then to Excellence attain,</l>
+                  <l>That are unworthy of one Dram or Grain.</l>
+                  <l>But Excellence is ſeated on a Throne,</l>
+                  <l>Above the reach of every Dunce and Drone.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Meum &amp; Tuum,</hi> backt with hopes and Fears</l>
+                  <l>Have thouſands ſet together by the Ears.</l>
+               </lg>
+               <lg>
+                  <l>More confidently none themſelves advance,</l>
+                  <l>Than the unworthy Sons of Ignorance.</l>
+               </lg>
+            </div>
+            <div n="N" type="section">
+               <pb n="39" facs="tcp:46150:22"/>
+               <head>N</head>
+               <lg>
+                  <l>NAture to Reaſons School comes to be taught,</l>
+                  <l>All the moſt curious works that can be wrought.</l>
+               </lg>
+               <lg>
+                  <l>Nor Gold, nor Pearls, nor Gems of higheſt rate,</l>
+                  <l>Can equalize a Self-conceited Pate.</l>
+               </lg>
+               <lg>
+                  <l>Notional knowledge is of ſlender uſe:</l>
+                  <l>That's beſt which we to Practice can reduce.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Nectar, Ambroſia,</hi> and the Theſpian Spring,</l>
+                  <l>May all avant, for Mony is the Thing.</l>
+               </lg>
+               <lg>
+                  <l>Nor Fume, nor Fret, nor Stamp at things amiſs;</l>
+                  <l>That's not the way to mend them; Patience is.</l>
+               </lg>
+               <lg>
+                  <l>No Rule, no Line found out, ſince time began,</l>
+                  <l>Could Gauge, or Fathom the vaſt heart of Man.</l>
+               </lg>
+               <lg>
+                  <l>Nothing can more to my improvement tend,</l>
+                  <l>Than the reprovement of a loving Friend.</l>
+               </lg>
+               <lg>
+                  <l>Never do well, that ill may come thereon.</l>
+                  <l>Never do bad, that good may thence accrue.</l>
+                  <l>Never do ill, that ill may thereupon,</l>
+                  <l>A curs'd Effect from a curs'd Cauſe enſue.</l>
+                  <l>But evermore do Good, that Good from thence</l>
+                  <l>May Spring, and Magnifie Heav'ns influence.</l>
+               </lg>
+               <lg>
+                  <l>Nobleſt Examples with good Education,</l>
+                  <l>Of Virtues Fabrick are the firm Foundation.</l>
+               </lg>
+               <lg>
+                  <l>None others more defame, or more advance</l>
+                  <l>Themſelves, than the blind Sons of Ignorance.</l>
+               </lg>
+               <pb n="40" facs="tcp:46150:23"/>
+               <lg>
+                  <l>Nimble Prevention from a danger flyes;</l>
+                  <l>But dull delay proves Slave to the Surprize.</l>
+               </lg>
+               <lg>
+                  <l>None mourn the loſs of tranſitory things,</l>
+                  <l>But ſuch, as never heard that wealth has Wings.</l>
+               </lg>
+               <lg>
+                  <l>No wonder if the beſt Men ſometimes fail,</l>
+                  <l>Since all are Mortal, and their Natures frail.</l>
+               </lg>
+               <lg>
+                  <l>Not many Words, but few, expreſt in ſeaſon,</l>
+                  <l>Proclaim the Noble ſtrength, and force of Reaſon.</l>
+               </lg>
+               <lg>
+                  <l>No kind ſo unkind to their Kind we find,</l>
+                  <l>As Man-kind unto Man-kind is unkind.</l>
+               </lg>
+               <lg>
+                  <l>No Croſſes can ſo much our Paſſions move,</l>
+                  <l>As thoſe that Croſs us in the Things we love.</l>
+               </lg>
+               <lg>
+                  <l>Nor Bears, nor Boars, nor Wolves, nor Tygres can</l>
+                  <l>Be more ſharp Foes to Man, than Man to Man.</l>
+               </lg>
+               <lg>
+                  <l>No Chains ſo ſtrong hath Fortune, as can bind,</l>
+                  <l>The inclinations of a Noble Mind.</l>
+               </lg>
+               <lg>
+                  <l>Now Bend your mind fair Writing to attain,</l>
+                  <l>Your preſent pains will prove your future Gain.</l>
+               </lg>
+               <lg>
+                  <l>No Charm ſo powerful was ever known,</l>
+                  <l>As Love, to make anothers heart your own.</l>
+               </lg>
+               <lg>
+                  <l>Not Riſeing early, nor our Working late,</l>
+                  <l>Will do't, there is in things a ſecret Fate.</l>
+               </lg>
+               <lg>
+                  <l>Not for dull, (gentle Readers) but for thoſe</l>
+                  <l>Who Read, and practice, we theſe Lines compoſe.</l>
+               </lg>
+            </div>
+            <div n="O" type="section">
+               <pb n="41" facs="tcp:46150:23"/>
+               <head>O</head>
+               <lg>
+                  <l>OThers to Virtue Poets do excite,</l>
+                  <l>By intermixing profit with Delight.</l>
+               </lg>
+               <lg>
+                  <l>Of Miſchief he ſhuns many a Rock and ſhelf</l>
+                  <l>Who learns betimes to learn to know himſelf.</l>
+               </lg>
+               <lg>
+                  <l>One thing there is, for which all men conteſt</l>
+                  <l>From Age to Age, that is, Self Intereſt.</l>
+               </lg>
+               <lg>
+                  <l>On this Worlds Stage a wiſe man would not ſtay</l>
+                  <l>Longer than he can Act his part o'th' Play.</l>
+               </lg>
+               <lg>
+                  <l>One moments pleaſure brought an Inundation,</l>
+                  <l>On all mankind, of pain and lamentation.</l>
+               </lg>
+               <lg>
+                  <l>One minutes Show'r of penetential Brine</l>
+                  <l>Tranſcends the Treaſures of a Golden Mine.</l>
+               </lg>
+               <lg>
+                  <l>Omiſſion of good Works, and the commiſſion</l>
+                  <l>Of bad, involve Men in a ſad Commiſſion.</l>
+               </lg>
+               <lg>
+                  <l>One ſmall Dram of good Life excells a Pound</l>
+                  <l>Of humane Learning, though the moſt profound.</l>
+               </lg>
+               <lg>
+                  <l>Our chearin Sun, our Glory and Delight,</l>
+                  <l>Are ſoon inveloped in ſhades of Night.</l>
+               </lg>
+               <lg>
+                  <l>Old Friends to truſt, old Gold to keep, old Wine</l>
+                  <l>To drink; are a ſolacious good old Trine.</l>
+               </lg>
+               <lg>
+                  <l>Only theſe two Intelligences move</l>
+                  <l>True Friendſhips Sphere; Civility and Love.</l>
+               </lg>
+               <pb n="42" facs="tcp:46150:24"/>
+               <lg>
+                  <l>On the Worlds Stage, ſo let me act my part,</l>
+                  <l>That the wiſe Head of <hi>Solomon,</hi> and Heart</l>
+                  <l>Of <hi>David,</hi> may both ſeem to Crown my Art.</l>
+               </lg>
+               <lg>
+                  <l>Opinion is an Empreſs; and Fame ſays,</l>
+                  <l>At leaſt three quarters or the World ſhe ſways.</l>
+               </lg>
+               <lg>
+                  <l>Our Faults, our Friends, and our Inſtructions, we</l>
+                  <l>Are ſtrangely ſubject to forget thoſe Three.</l>
+               </lg>
+               <lg>
+                  <l>Of bad Examples, Satan's Baits, beware;</l>
+                  <l>And ſhun them, as a Peſtilential Ayre.</l>
+               </lg>
+               <lg>
+                  <l>Our choiceſt Flowers we ſmell to moſt, and they</l>
+                  <l>Soon breath their laſt; their Glories firſt decay.</l>
+               </lg>
+               <lg>
+                  <l>Of a quick Friend, and a ſlow Enemy</l>
+                  <l>Beware, and glozing Adulators fly.</l>
+               </lg>
+               <lg>
+                  <l>Only thoſe Noble Souls are truely free,</l>
+                  <l>That can deny themſelves their Libertie.</l>
+               </lg>
+               <lg>
+                  <l>One great part of our life is ſwallow'd by Death's brother,</l>
+                  <l>Our Meals and Recreations, do devour another.</l>
+                  <l>That part which we imploy in worthy VVorks is ſmall;</l>
+                  <l>But ſmaller's that, wherein we ſerve Him, who gives all.</l>
+               </lg>
+               <lg>
+                  <l>Opinion guides our Paſſions, and Affections,</l>
+                  <l>And all our Fancies follow her Directions.</l>
+               </lg>
+               <lg>
+                  <l>Our Time, our VVit, our Strength, we ſpend our Coyn to gain,</l>
+                  <l>And ſpend our Strength, VVit, Time, to ſpend that Coyn in vain.</l>
+               </lg>
+               <pb n="43" facs="tcp:46150:24"/>
+               <lg>
+                  <l>O, that I could invent ſome powerful Rhime,</l>
+                  <l>To make all Learners learn to prize their Time.</l>
+               </lg>
+               <lg>
+                  <l>Of all the Birds whoſe Wings divide the Ayre,</l>
+                  <l>Arabias Phaenix is the only Rare:</l>
+                  <l>Shee, from the Aſhes of her fragrant Urn,</l>
+                  <l>Another Glorious Phaenix does return;</l>
+                  <l>Which ſhews a ſupernatural Perfection,</l>
+                  <l>And Typifies Man's happy Reſurrection.</l>
+               </lg>
+            </div>
+            <div n="P" type="section">
+               <pb n="44" facs="tcp:46150:25"/>
+               <head>P</head>
+               <lg>
+                  <l>PRofeſs not what you know, you know not, for</l>
+                  <l>All knowing Men will ſuch a Man abhor,</l>
+               </lg>
+               <lg>
+                  <l>Proportion is the Golden Rule, whence you</l>
+                  <l>May learn what's fit to do, and not to do.</l>
+               </lg>
+               <lg>
+                  <l>Pride and Ambition lend men Spreading wings</l>
+                  <l>To Act the moſt ridiculous of Things.</l>
+               </lg>
+               <lg>
+                  <l>Praiſe others, but deny your ſelf, and then</l>
+                  <l>Your Company will pleaſe Ingenious Men.</l>
+               </lg>
+               <lg>
+                  <l>Procraſtination dangerous was found,</l>
+                  <l>Where quick-diſpatch might the Event have Crown'd.</l>
+               </lg>
+               <lg>
+                  <l>Philoſophers thoſe thriving Seeds Sow, which</l>
+                  <l>More than their own, do future Times enrich.</l>
+               </lg>
+               <lg>
+                  <l>Preſume not on Futuritie; Vexation</l>
+                  <l>Moſt commonly attends Procraſtination.</l>
+               </lg>
+               <lg>
+                  <l>Paſs not thy judgment on anothers end,</l>
+                  <l>But inward look, and know, the Beſt may Mend.</l>
+               </lg>
+               <lg>
+                  <l>Pitty it is ſo many ſhould enjoy</l>
+                  <l>Learning, and yet their Talents not Imploy.</l>
+               </lg>
+               <lg>
+                  <l>Parents would have their Children Richly learn,</l>
+                  <l>But Maſters poor Rewards pinch that concern.</l>
+               </lg>
+               <lg>
+                  <l>Praiſe ſome deſire, when they diſpraiſe deſerve:</l>
+                  <l>Thus worthleſs Fools their own vain humours ſerve.</l>
+               </lg>
+               <lg>
+                  <l>Preſume not on Lifes length, Death, a young Lam</l>
+                  <l>Bears to his Fold, as ſoon as an old Ram.</l>
+               </lg>
+               <pb n="45" facs="tcp:46150:25"/>
+               <lg>
+                  <l>Praiſe or applauſe which from without we win,</l>
+                  <l>Signifies nothing, if not Crown'd within.</l>
+               </lg>
+               <lg>
+                  <l>Pride, when her Plumes are ſpread in Pomp and Glory,</l>
+                  <l>Forgets her Gallantry is tranſitory.</l>
+               </lg>
+               <lg>
+                  <l>Prize, beyond weſtern Gold, or Eaſtern Spice,</l>
+                  <l>The Sole-advancing Treaſures of advice.</l>
+               </lg>
+               <lg>
+                  <l>Practice gives Motion to the Pen-mans hand,</l>
+                  <l>Fair Writings Excellencies to command.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Pelion</hi> on <hi>Oſſa,</hi> Sin on Sin we heap,</l>
+                  <l>Yet though we ſow ſo, ſo we would not Reap.</l>
+               </lg>
+               <lg>
+                  <l>Philoſophy Divine, court and recourt; She can</l>
+                  <l>As man's above a Beaſt, mount man above a Man.</l>
+               </lg>
+               <lg>
+                  <l>Prodigious Products from mens Acts we ſee;</l>
+                  <l>From not fore-thinking what th' Events might be.</l>
+               </lg>
+               <lg>
+                  <l>Pitty it is, that Heaven-born Charity,</l>
+                  <l>Is grown of late ſo great a Rarity.</l>
+               </lg>
+               <lg>
+                  <l>Poor Worms-meat, Soar not to the hight of State:</l>
+                  <l>Humility is honours Palace Gate.</l>
+               </lg>
+               <lg>
+                  <l>Pure Temperance a pure good Temper breeds;</l>
+                  <l>But Gluttony all noyſom Humours feeds.</l>
+               </lg>
+               <lg>
+                  <l>Perform thy promiſe; keep within Faiths Bounds,</l>
+                  <l>Who breaks his Word, his Reputation wounds.</l>
+               </lg>
+               <lg>
+                  <l>Patience Diſquiet calmes; charms Diſcontents;</l>
+                  <l>And arms mens Minds againſt the worſt events.</l>
+               </lg>
+               <pb n="46" facs="tcp:46150:26"/>
+               <lg>
+                  <l>Proſperity firſt greets them with her Smiles,</l>
+                  <l>And in the End, her Proſelytes beguiles.</l>
+               </lg>
+               <lg>
+                  <l>Praiſe, and diſpraiſe, the VViſe eſteem alike;</l>
+                  <l>One cannot Stroke them, nor the other Strike.</l>
+               </lg>
+               <lg>
+                  <l>Prudence commands, that Silence we ſhould break,</l>
+                  <l>When we, than that can Something better Speak.</l>
+               </lg>
+               <lg>
+                  <l>Pitty it is, ſo many go to learn,</l>
+                  <l>Who not ſo much as think of that Concern.</l>
+               </lg>
+            </div>
+            <div n="Q" type="section">
+               <pb n="47" facs="tcp:46150:26"/>
+               <head>Q</head>
+               <lg>
+                  <l>QUickly are all thoſe Sublunaries go<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </l>
+                  <l>Which we vain Mortals ſo <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>Quickly therefore, their <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>mpting <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>Since they muſt go from us, or we from <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg>
+                  <l>Queſtions profound, and dark Enigmas tend,</l>
+                  <l>To exerciſe mens Brains, but to no end,</l>
+               </lg>
+               <lg>
+                  <l>Qualms, qualms ſucceed; like as our Stomacks, ſo</l>
+                  <l>Our Minds have Crudities that breed our Wo.</l>
+               </lg>
+               <lg>
+                  <l>Quaint Out-ſides win on moſt Spectators Eyes:</l>
+                  <l>Whilſt real worth (ill cloath'd) neglected lyes.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Quarles,</hi> quondam Poet, for rare Lines Divine,</l>
+                  <l>Still wares freſh Lawrels, ſtill his Tapers ſhine.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Quintus Curtius</hi> Embalm'd great <hi>Alexander</hi>'s name,</l>
+                  <l>Whoſe Pen from Age to Age, perpetuates his Fame.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Quintilian</hi>'s Tongue, as in Fames Rolls appears,</l>
+                  <l>Lead his admiring hearers by the Ears.</l>
+               </lg>
+               <lg>
+                  <l>Quaſh <hi>Calumnies,</hi> defame the Defamations</l>
+                  <l>Darted from Envious Tongues, at your Relations.</l>
+               </lg>
+               <lg>
+                  <l>Quills into curious Pens are made, from whence</l>
+                  <l>Letters flow, which make words, and words make ſence.</l>
+               </lg>
+               <lg>
+                  <l>Quilt Earth's vaſt Ball with Numbers, all imply</l>
+                  <l>But Cyphers, to Immence Eternity.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Quotidian</hi> Practice may make this Imployment,</l>
+                  <l>Of Sublunary Things, your beſt Enjoyment.</l>
+               </lg>
+               <pb n="48" facs="tcp:46150:27"/>
+               <lg>
+                  <l>Queſtion not, but wiſe management of Time,</l>
+                  <l>Will make your humble Fortunes more ſublime.</l>
+               </lg>
+               <lg>
+                  <l>Quoth Will, I am reſolv'd reveng'd to be;</l>
+                  <l>Quoth Wit, have patience, and be rul'd by me.</l>
+               </lg>
+               <lg>
+                  <l>Qualifications Virtuous and Pious,</l>
+                  <l>Should be belov'd, honour'd, and ſought for by us.</l>
+               </lg>
+               <lg>
+                  <l>Quit this Worlds Stage you muſt, when your part's play'd,</l>
+                  <l>Get Earneſt, timely, for a better lay'd.</l>
+               </lg>
+               <lg>
+                  <l>Quarrelſom Natures meet their unkind Kind:</l>
+                  <l>And commonly, what ſuch Men ſeek, they find.</l>
+               </lg>
+               <lg>
+                  <l>Quadrate with none whoſe Acts pronounce them baſe,</l>
+                  <l>No Goodneſs ſprings from an ungodly Race.</l>
+               </lg>
+               <lg>
+                  <l>Quadrunities high-priz'd, I wiſh theſe mine,</l>
+                  <l>Good parts, good Books, good Friends, good ſtore of Coin.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Quinſay, China</hi>'s cheif City, even Immenſe;</l>
+                  <l>An hundred Miles is in Circumference.</l>
+               </lg>
+               <lg>
+                  <l>Quote, in the Folio, of your beſt Affections,</l>
+                  <l>Him, that's a faithful Friend without Objections.</l>
+               </lg>
+               <lg>
+                  <l>Quality oft for Soveraignty contends</l>
+                  <l>VVith quantity, and her vaſt Bulk tranſcends.</l>
+               </lg>
+               <lg>
+                  <l>Quietneſs, and Serene Contentment, are</l>
+                  <l>The beſt Companions in this Mundane Sphear:</l>
+                  <l>No Golden Fear, no heart-conſuming Care,</l>
+                  <l>Dare in their charming preſence to appear;</l>
+                  <l>All is ſweet, ſafe, and ſound within their Bounds;</l>
+                  <l>No noiſe their Reſt, no VVar their peace confounds.</l>
+               </lg>
+            </div>
+            <div n="R" type="section">
+               <pb n="49" facs="tcp:46150:27"/>
+               <head>R</head>
+               <lg>
+                  <l>RAnge the worlds VVilderneſſes; and you can</l>
+                  <l>Find no ſuch Beaſt of Prey, as man to man.</l>
+               </lg>
+               <lg>
+                  <l>Raſhneſs draws crooked, and un-artful Lines:</l>
+                  <l>And is a Remora to brave Deſigns.</l>
+               </lg>
+               <lg>
+                  <l>Reaſon and Learning much concern his pate,</l>
+                  <l>VVho from his Cradle is Illiterate.</l>
+               </lg>
+               <lg>
+                  <l>Rouze up my flaming Genius, Heav'n inſpire</l>
+                  <l>My Soul, with ſomething of Etherial Fire.</l>
+                  <l>Let all brave Engliſh Youths, who read theſe Lines,</l>
+                  <l>Be ev'n inchanted with my good Deſignes.</l>
+                  <l>Let theſe their brave Heroick Spirits raiſe</l>
+                  <l>To practice Virtue, and give Him the praiſe:</l>
+                  <l>From th' Influence of whoſe great Providence,</l>
+                  <l>The Excellent derive their Excellence.</l>
+               </lg>
+               <lg>
+                  <l>Reports, ſomtimes, which ſland'rous Tougues have ſpread,</l>
+                  <l>Have caus'd a difference 'twixt the Eares and Head.</l>
+               </lg>
+               <lg>
+                  <l>Reſolve; Revolve; Involve: Inform; Reform:</l>
+                  <l>But keep God's Fort, your Conſcience, from a Storm.</l>
+               </lg>
+               <lg>
+                  <l>Rather depend upon your Fingers Ends,</l>
+                  <l>Then fix your Expectations on your Friends.</l>
+               </lg>
+               <lg>
+                  <l>Read Books, Men, Manners, Times, and you'l confeſs,</l>
+                  <l>That the VVorld's Supreme Virtue is, Succeſs.</l>
+               </lg>
+               <lg>
+                  <l>Reaſon, VVit, Knowledge, all your parts preſent,</l>
+                  <l>To Him, by whom they were but only lent.</l>
+               </lg>
+               <pb n="50" facs="tcp:46150:28"/>
+               <lg>
+                  <l>Rather than be quite broke, wiſely ſubmit and Bend:</l>
+                  <l>'Tis mighty folly with the mighty to contend.</l>
+               </lg>
+               <lg>
+                  <l>Religion is the Soul of Innocence,</l>
+                  <l>Moving in an unſpotted Conſcience.</l>
+               </lg>
+               <lg>
+                  <l>Rare ARTS with Care, and Pains, obtain and keep:</l>
+                  <l>Into mens mouths they drop not, as they ſleep.</l>
+               </lg>
+               <lg>
+                  <l>Reaſon's the Pole-Star, which directs the way,</l>
+                  <l>To Navigate in this Worlds troubled Sea.</l>
+               </lg>
+               <lg>
+                  <l>Rare Virtues Emanations far tranſcend the price,</l>
+                  <l>Of the <hi>Weſt-Indies</hi> Gold, or the <hi>Eaſt-Indies</hi> Spice.</l>
+               </lg>
+               <lg>
+                  <l>Rich men are Poor, in covetous Conditions;</l>
+                  <l>Poor men are Rich, in envious Diſpoſitions.</l>
+               </lg>
+               <lg>
+                  <l>Refuſe to Act to Day, what may to morrow,</l>
+                  <l>Procure your Torment, or at leaſt your Sorrow.</l>
+               </lg>
+               <lg>
+                  <l>Rage breaks down Reaſons bounds; keeps no decorum:</l>
+                  <l>Paſſions and Rage tumble down all before 'em.</l>
+               </lg>
+               <lg>
+                  <l>Remuneration, like ſoft <hi>April</hi> Showers,</l>
+                  <l>In Virtues <hi>May,</hi> produces Gallant Flowers.</l>
+               </lg>
+               <lg>
+                  <l>Ranſack the treaſuring Casket of each Rock,</l>
+                  <l>And keep the Key of that exhauſtleſs Stock.</l>
+                  <l>Let every Sun, ſtill view the more Renown'd,</l>
+                  <l>Till thou the Worlds Grand Emperour art Crown'd:</l>
+                  <l>Then take thy Shadows length; ſee how much more</l>
+                  <l>Its Menſuration exceeds that before.</l>
+               </lg>
+            </div>
+            <div n="S" type="section">
+               <pb n="51" facs="tcp:46150:28"/>
+               <head>S</head>
+               <lg>
+                  <l>SEcrets of Art by Induſtry are found,</l>
+                  <l>Induſtrious Pains with nobleſt Gains are crown'd.</l>
+               </lg>
+               <lg>
+                  <l>Such as exalt themſelves above the Skies,</l>
+                  <l>In wiſe mens Thoughts, appear extreamly wiſe.</l>
+               </lg>
+               <lg>
+                  <l>Soul-ſaving Knowledge make thy grand Inqueſt,</l>
+                  <l>What Signifies all Knowledge if not bleſt?</l>
+               </lg>
+               <lg>
+                  <l>Stars, Sands, and Sins, vaſt Numbers are, yet are</l>
+                  <l>But Cyphers when God's Mercies we compare.</l>
+               </lg>
+               <lg>
+                  <l>Such as delight in others Debts to run,</l>
+                  <l>Have pleas'd themſelves, till they have been undon.</l>
+               </lg>
+               <lg>
+                  <l>Stars govern Men, but God ſets Bounds and Bars,</l>
+                  <l>To glorius <hi>Phebus, Luna,</hi> and the Stars.</l>
+               </lg>
+               <lg>
+                  <l>Some Lines Embryoder'd are, and ſome more plain:</l>
+                  <l>Which ſhews that <hi>Mercury</hi> does not always reign.</l>
+               </lg>
+               <lg>
+                  <l>Soul-plaguing Fears, Jealouſie, and ſuſpition,</l>
+                  <l>Reduce a man into a ſtrange Condition.</l>
+               </lg>
+               <lg>
+                  <l>Small Commendation ſerves to crown that Friend</l>
+                  <l>Who is a Friend for Ends unto the end.</l>
+               </lg>
+               <lg>
+                  <l>Sweeter than Civet ſmells induſtrious ſweat:</l>
+                  <l>Who takes no pains, he ſhould no <hi>Panis</hi> Eat.</l>
+               </lg>
+               <lg>
+                  <l>Suffering for Sin ſhould breed no Diſcontent,</l>
+                  <l>Since many have prov'd chaſt by Chaſtiſement.</l>
+               </lg>
+               <lg>
+                  <l>Since every Meeting muſt a parting have,</l>
+                  <l>Soul, ſoar to Heaven; ſink Body to the Grave.</l>
+               </lg>
+               <pb n="52" facs="tcp:46150:29"/>
+               <lg>
+                  <l>Since Riches, Honours, Pleaſures, All we ſee,</l>
+                  <l>Are but Injoyments here, <hi>pro Tempore;</hi>
+                  </l>
+                  <l>Let my poor Soul fix nobler hopes Above;</l>
+                  <l>Where ſtreams of Glory mix with Light and Love.</l>
+               </lg>
+               <lg>
+                  <l>Soar not too high in Sublunary things,</l>
+                  <l>For fear, leſt yours ſhould prove <hi>Icarian</hi> Wings.</l>
+               </lg>
+               <lg>
+                  <l>Satan Imploys all Inſtruments he can,</l>
+                  <l>To bring to ruin that poor Thing call'd Man.</l>
+               </lg>
+               <lg>
+                  <l>Skie-ſcaling Groans from Contrite hearts aſcend,</l>
+                  <l>In favour to their never-ending End.</l>
+               </lg>
+               <lg>
+                  <l>Sloath, without armed Armies, can Suprize,</l>
+                  <l>All the Souls powers, and noble Faculties.</l>
+               </lg>
+               <lg>
+                  <l>Sleep is Death's Picture, to the Life drawn forth,</l>
+                  <l>Who ſleeps too much, loſes both wit and worth.</l>
+               </lg>
+               <lg>
+                  <l>Small Friendſhip; leſs Reality is found,</l>
+                  <l>Where fawning, feighing Complements abound.</l>
+               </lg>
+               <lg>
+                  <l>Some, by the conſtant hands of Induſtry,</l>
+                  <l>Out-ſtrip the Wings of Ingenuity.</l>
+               </lg>
+               <lg>
+                  <l>Sin's pleaſure, like a flaſh, is quickly paſt,</l>
+                  <l>But who can tell how long the Pain may laſt?</l>
+               </lg>
+               <lg>
+                  <l>Sleep renders Nature brisk and brave, and tends</l>
+                  <l>To the refreſhing of Man's five beſt Friends.</l>
+               </lg>
+               <lg>
+                  <l>Shew me the man that has no Faults, and I</l>
+                  <l>VVill teach him, in the Ayre ſoon how to fly.</l>
+               </lg>
+               <pb n="53" facs="tcp:46150:29"/>
+               <lg>
+                  <l>Some, by their Tongues accumulate ſuch wrongs;</l>
+                  <l>That they could after wiſh they'd had no Tongues.</l>
+               </lg>
+               <lg>
+                  <l>Sound ſence in a ſhort ſentence, oft we find,</l>
+                  <l>More than high Raptures, to inform the Mind.</l>
+               </lg>
+               <lg>
+                  <l>So live in every Station and Relation,</l>
+                  <l>As that Salvation is your expectation.</l>
+               </lg>
+               <lg>
+                  <l>Silver and Gold, though beſt Times ſcorn'd to own 'em,</l>
+                  <l>Are of this laſt, worſt Age, the <hi>Summum Bonum.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Still acquieſce in Providence Divine:</l>
+                  <l>What's not to day, to Morrow may be thine.</l>
+               </lg>
+               <lg>
+                  <l>Sins Sinners minds enſlave; blind the Souls Eyes:</l>
+                  <l>But in God's Service perfect Freedom lyes.</l>
+               </lg>
+               <lg>
+                  <l>Sleep, though a kind of Death, Lifes Life appears:</l>
+                  <l>Revivifies the Brain, the Spirits chears.</l>
+               </lg>
+               <lg>
+                  <l>Since a cloſe Mouth makes a wiſe Head, do you,</l>
+                  <l>Hear others talk, while you think what to do.</l>
+               </lg>
+               <lg>
+                  <l>Some dare not live for fear of Death, and ſome</l>
+                  <l>Dye to prevent the Evils that may come.</l>
+               </lg>
+               <lg>
+                  <l>Such as their Minds to Curious Arts addreſs,</l>
+                  <l>Lay Earneſt for the Worlds Chief happineſs.</l>
+               </lg>
+               <lg>
+                  <l>Strive to raiſe Monuments of laſting Fame:</l>
+                  <l>And ſcorn that worthleſs Works ſhould ſoyl your name.</l>
+               </lg>
+               <lg>
+                  <l>Saying, with thoſe but little can perſwade,</l>
+                  <l>Who to believe by ſeeing, can't be made.</l>
+               </lg>
+               <pb n="54" facs="tcp:46150:30"/>
+               <lg>
+                  <l>Some think, and think ſo long what they would do,</l>
+                  <l>That they loſe both their thoughts and Actions too.</l>
+               </lg>
+               <lg>
+                  <l>Small Pain conſtrains us to complain, but while</l>
+                  <l>Contentment Smiles upon us, we can Smile,</l>
+               </lg>
+               <lg>
+                  <l>So many men, ſo many Minds we find;</l>
+                  <l>And every mind as fixed as the Wind.</l>
+               </lg>
+               <lg>
+                  <l>Since Words the Minds moſt noble Cloathing are;</l>
+                  <l>And Words are beſt Embroydered with ſence.</l>
+                  <l>And Sence is beſt that ſhines with Eloquence;</l>
+                  <l>And Eloquence is then moſt Rich and Rare,</l>
+                  <l>When <hi>Tropes</hi> and Figures ſhew its excellence.</l>
+                  <l>With glitt'ring Metaphors which beam from thence</l>
+                  <l>Theſe properties, let my Minds Veſture ſhare.</l>
+               </lg>
+            </div>
+            <div n="T" type="section">
+               <pb n="55" facs="tcp:46150:30"/>
+               <head>T</head>
+               <lg>
+                  <l>TRuth's lucid Paths the ſacred Scriptures ſhew:</l>
+                  <l>Who tread not them, trace Labyrinths of wo.</l>
+               </lg>
+               <lg>
+                  <l>Time's but the ſhort duration of a VVink,</l>
+                  <l>VVhen on Immence Eternity we think.</l>
+               </lg>
+               <lg>
+                  <l>The want of ſleep, which wildeſt Creatures tames,</l>
+                  <l>Men to the height of Madneſs oft inflames.</l>
+               </lg>
+               <lg>
+                  <l>The nobleſt of examples imitate;</l>
+                  <l>And let contentment crown thy bleſt Eſtate.</l>
+               </lg>
+               <lg>
+                  <l>To day we laugh and frolick, and to morrow,</l>
+                  <l>VVe Grunt and Groan upon the Bed of ſorrow.</l>
+               </lg>
+               <lg>
+                  <l>'Tis dangerous to be Great: proud Cedars bow,</l>
+                  <l>VVith Storms which move not humble Shrubs below.</l>
+               </lg>
+               <lg>
+                  <l>T'inſult, or exſult over Miſery,</l>
+                  <l>Shews baſeneſs mixt with inhumanity.</l>
+               </lg>
+               <lg>
+                  <l>Thoſe Lines which ſome may think impertinent,</l>
+                  <l>By others will be thought moſt Excellent.</l>
+               </lg>
+               <lg>
+                  <l>Time, Tide, and Carriers, with the flying Sun,</l>
+                  <l>Will ſtay for no man, till their Race is run.</l>
+               </lg>
+               <lg>
+                  <l>Think humbly of your ſelf; no Commendation</l>
+                  <l>Can mount you then, above your proper Station.</l>
+               </lg>
+               <lg>
+                  <l>Time paſt who hath forgot; neglects the preſent;</l>
+                  <l>And fears the future, hath loſt all things pleaſant.</l>
+               </lg>
+               <lg>
+                  <l>The Serpents wiles to ſave your ſelf, embrace;</l>
+                  <l>And others not to harm give the Dove place.</l>
+               </lg>
+               <pb n="56" facs="tcp:46150:31"/>
+               <lg>
+                  <l>The ſacred Rules of Virtue bear ſmall price,</l>
+                  <l>With the unbounded, ſordid Sons of Vice.</l>
+               </lg>
+               <lg>
+                  <l>This is an obſervation true, though plain;</l>
+                  <l>Thoſe who moſt feaſt the Belly, ſtarve the Brain.</l>
+               </lg>
+               <lg>
+                  <l>The Soul's the Salt, which doth the Body ſeaſon,</l>
+                  <l>And keep alive; and the Soul's Salt is Reaſon.</l>
+               </lg>
+               <lg>
+                  <l>Though God be Omnipreſent, men dare ſwear:</l>
+                  <l>Were the King near them, they would then forbare.</l>
+               </lg>
+               <lg>
+                  <l>The Life of Nature's given, that we might trace,</l>
+                  <l>The happy foot-ſteps to the Life of Grace:</l>
+                  <l>Which Life of Grace, will crown thoſe who perſever,</l>
+                  <l>Faithful till Death, with Glories Life, for ever.</l>
+               </lg>
+               <lg>
+                  <l>Then your deſires have reaſon to be crown'd</l>
+                  <l>With what you ask, when Reaſon is their Ground.</l>
+               </lg>
+               <lg>
+                  <l>'Tis not how many Arts, or curious Parts we have,</l>
+                  <l>But how well we improve the Talent that God gave.</l>
+               </lg>
+               <lg>
+                  <l>To none the ſecret Counſels of your mind</l>
+                  <l>Communicate, for can you hope to find</l>
+                  <l>One that has VVill, and Power to do for you</l>
+                  <l>What for your ſelf, you your ſelf could not do.</l>
+                  <l>Th' Immaculate Fountain of all holyneſs,</l>
+                  <l>Thoſe moſt, who moſt reſemble Him, will bleſs.</l>
+               </lg>
+               <pb n="57" facs="tcp:46150:31"/>
+               <lg>
+                  <l>The Pen all curious Inſtruments tranſcends;</l>
+                  <l>And, in its uſefulneſs, it ſelf commends.</l>
+                  <l>No need of ſwelling, high Encomiums, then</l>
+                  <l>To Trumpet forth the praiſes of the Pen:</l>
+                  <l>This does, like Virtue, its own Trophies raiſe,</l>
+                  <l>Sublimely high, beyond the reach of praiſe.</l>
+               </lg>
+               <lg>
+                  <l>Times change, and we in them: both Men and Nations</l>
+                  <l>Their Zeniths have, before their Declinations.</l>
+               </lg>
+               <lg>
+                  <head>The Youth's Letter from the Writing School, <hi>&amp;c.</hi>
+                  </head>
+                  <l>Theſe, honour'd Parents, are but ſmall Effects,</l>
+                  <l>Of your great Love, and manifold Reſpects.</l>
+                  <l>Theſe few unpoliſh'd Lines cannot expreſs,</l>
+                  <l>The thouſand part of my due thankfulneſs</l>
+                  <l>For your leaſt favours; yet if theſe you grace,</l>
+                  <l>W<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cceptation; I, in Writings Race</l>
+                  <l>Shall run more ſwift, by that encouragement,</l>
+                  <l>And, in ſhort time, ſome nobler Piece preſent.</l>
+               </lg>
+               <lg>
+                  <l>There is no virtue in the rareſt Pen,</l>
+                  <l>Which VVriting to Perfection can Produce:</l>
+                  <l>Nor in the hand; that member, which to men,</l>
+                  <l>Is in all works, of admirable uſe.</l>
+                  <l>Though each of theſe in Writing, bears his Part,</l>
+                  <l>Yet the grand Fountain whence it flows, is Art.</l>
+               </lg>
+            </div>
+            <div n="V" type="section">
+               <pb n="58" facs="tcp:46150:32"/>
+               <head>V</head>
+               <lg>
+                  <l>VIrtues Celeſtial, Soul-refreſhing Light,</l>
+                  <l>Vice may Ecclips, but not extinguiſh quite.</l>
+               </lg>
+               <lg>
+                  <l>Valour, for Honour; Grace, for Glory calls:</l>
+                  <l>Brave Heroes Fames ſurvive their Funeralls.</l>
+               </lg>
+               <lg>
+                  <l>Vain Mortals, it becomes you not to move,</l>
+                  <l>Your Tongues, concerning what's decree'd above.</l>
+               </lg>
+               <lg>
+                  <l>Violence, when full Growth ſhe does acquire,</l>
+                  <l>Leaps forth, like Thunder, wrapt in Balls of fire.</l>
+               </lg>
+               <lg>
+                  <l>Virtue, though clad in Raggs, may challenge more,</l>
+                  <l>Than Vice adorn'd with Silks, in mid'ſt of ſtore.</l>
+               </lg>
+               <lg>
+                  <l>Unto your Sence this Sentence ſtill apply,</l>
+                  <l>That there's no Poyſon like bad company.</l>
+               </lg>
+               <lg>
+                  <l>Uſe Prudence, Temperance, and Moderation:</l>
+                  <l>Shun Commendation, and hate Oſtentation.</l>
+               </lg>
+               <lg>
+                  <l>Virtues heroick Sons will act their Parts;</l>
+                  <l>Not fearing thouſands of curſt Envies Darts.</l>
+               </lg>
+               <lg>
+                  <l>Vices, which with their tempting Smiles invite,</l>
+                  <l>Conceal their Teeth, wherewith they after bite.</l>
+               </lg>
+               <lg>
+                  <l>Virtues Tryumphant Chariot (which now groans</l>
+                  <l>Under Oppreſſures) ſhall break Envies Bones.</l>
+               </lg>
+               <lg>
+                  <l>Vainly we Dream, as vainly Act our Dreams;</l>
+                  <l>And vainly think we parallel Supreams.</l>
+               </lg>
+               <lg>
+                  <l>Voluptuous, courſe, Senſual Delights,</l>
+                  <l>Obſtruct the winged Souls Celeſtial Flights.</l>
+               </lg>
+               <pb n="59" facs="tcp:46150:32"/>
+               <lg>
+                  <l>Vane in our heads, and in our hearts too, vain;</l>
+                  <l>We like not Things, however good, if Plain.</l>
+               </lg>
+               <lg>
+                  <l>Virtue and Truth are amicitial Mates;</l>
+                  <l>Virtue all poſtures of Impoſtors hates.</l>
+               </lg>
+               <lg>
+                  <l>Valiant he does approve himſelf, and wiſe,</l>
+                  <l>Who with a brave diſdain, ſlights Injuries.</l>
+               </lg>
+               <lg>
+                  <l>Virtue hates Fucos, Patches and perfumes,</l>
+                  <l>Duſt, mixt with Sweat; that painting ſhe aſſumes.</l>
+               </lg>
+               <lg>
+                  <l>Vain Glories Emblem is a blazing Taper;</l>
+                  <l>Whoſe ſhort-liv'd Snuff ends in a noyſom vapour.</l>
+               </lg>
+               <lg>
+                  <l>Virtue that's her own Noble Satisfaction,</l>
+                  <l>Is allways buſied in the Shop of Action.</l>
+               </lg>
+               <lg>
+                  <l>Vices, which ſeem to lie within conceal'd,</l>
+                  <l>Are, by our words and Actions, ſoon reveal'd.</l>
+               </lg>
+               <lg>
+                  <l>Virtues vaſt worth tranſcends all Earths beſt Treaſures,</l>
+                  <l>She's Honours honour, and the Soul of pleaſures.</l>
+               </lg>
+               <lg>
+                  <l>Vaniſh beneath my thoughts; vain worldly Toys:</l>
+                  <l>Mount, mount my Soul, to Heavens Eternal joys.</l>
+               </lg>
+               <lg>
+                  <l>Vexation makes a Man by transformation,</l>
+                  <l>The ſtrangeſt Creature in the whole creation.</l>
+               </lg>
+               <lg>
+                  <l>Untamed youths, for want of good Tuition,</l>
+                  <l>Plunge into Shoreleſs, Soundleſs, Seas of Vice.</l>
+                  <l>But to Ingenious Lads, Learnings Fruition,</l>
+                  <l>Is a Soul-chearing, fruitful Paradice.</l>
+                  <l>The one produces nought but weeds and Tares;</l>
+                  <l>All delectable Fruits, the other bears.</l>
+               </lg>
+            </div>
+            <div n="W" type="section">
+               <pb n="60" facs="tcp:46150:33"/>
+               <head>W</head>
+               <lg>
+                  <l>WIſdom deſcends from the bright Orbs above,</l>
+                  <l>To Teach her Children how to live in Love</l>
+               </lg>
+               <lg>
+                  <l>Whoſe, where, and what thou art, conſider well</l>
+                  <l>And think on Death and Judgment, Heaven and Hoſt.</l>
+               </lg>
+               <lg>
+                  <l>When Pleaſing <hi>Zephyrus</hi>-ſalutes us, we</l>
+                  <l>For Bluſt'ring <hi>Boreas</hi> ſhould preparing be</l>
+               </lg>
+               <lg>
+                  <l>VVho Writes, or Paints, or Carves; or, <hi>&amp; quid non;</hi>
+                  </l>
+                  <l>VVhere is the Man that thinks himſelf out-gon?</l>
+               </lg>
+               <lg>
+                  <l>Who Idolize themſelves, themſelves deſame;</l>
+                  <l>And when they gape for Honour, meet with Shame.</l>
+               </lg>
+               <lg>
+                  <l>VVhat ſignife vaſt piles of well-wrote Books,</l>
+                  <l>To him that on them, but not in them looks.</l>
+               </lg>
+               <lg>
+                  <l>Why vainly Learn we what we muſt unlearn,</l>
+                  <l>And mind Concerns, which do not us concern.</l>
+               </lg>
+               <lg>
+                  <l>VVho waits for others Shooes (it is well known)</l>
+                  <l>Had need to keep a Coblar for his own.</l>
+               </lg>
+               <lg>
+                  <l>Who mind their Buſineſs well, may ſpare with eaſe,</l>
+                  <l>Some hours for Recreation, when they pleaſe.</l>
+               </lg>
+               <lg>
+                  <l>Who gives thee Learning, acts a Nobler Deed,</l>
+                  <l>Than he that doth thy Body Cloath and feed.</l>
+               </lg>
+               <lg>
+                  <l>Who in their Youth refuſed to be taught,</l>
+                  <l>To numerous Endammagements are brought.</l>
+               </lg>
+               <lg>
+                  <l>Who's, <hi>ab origene,</hi> a faithful Friend,</l>
+                  <l>Honour commands to hold out to the End.</l>
+               </lg>
+               <pb n="61" facs="tcp:46150:33"/>
+               <lg>
+                  <l>VVhat we can ſuffer for that Friend is ſmall,</l>
+                  <l>VVho once was pleas'd to ſuffer for us all.</l>
+               </lg>
+               <lg>
+                  <l>VVell to conſider how ill Husbands fare,</l>
+                  <l>Would make a man bad husbandry forſwear.</l>
+               </lg>
+               <lg>
+                  <l>When Friends we need not, than our Friends abound;</l>
+                  <l>But when we want Friends, then few Friends are found.</l>
+               </lg>
+               <lg>
+                  <l>While here Mortality doth us inveſt,</l>
+                  <l>The beſt of Men will prove but men at beſt.</l>
+               </lg>
+               <lg>
+                  <l>Why ſhould the Drunkard ſtrive his Acts to ſmoother,</l>
+                  <l>Drink runs but from one Hogſhead to another.</l>
+               </lg>
+               <lg>
+                  <l>VVine, VVomen, Cards &amp; Dice, with Hawks &amp; Hounds,</l>
+                  <l>Reduce mens vaſt Eſtates to Leſſer bounds.</l>
+               </lg>
+               <lg>
+                  <l>VVhen Men make Preſents to the beſt of Kings,</l>
+                  <l>They wiſely ſhould preſent the beſt of Things.</l>
+               </lg>
+               <lg>
+                  <l>VVealth pampers Pride and Luxury, till they</l>
+                  <l>Their liberal Maſter to the Grave betray.</l>
+               </lg>
+               <lg>
+                  <l>VVhen to the VVorld you others faults make known,</l>
+                  <l>Ingeniouſly reflect upon your own.</l>
+               </lg>
+               <lg>
+                  <l>VVhat would Poor man without Gods mercies be?</l>
+                  <l>Alas! but a ſad Map of Miſerie.</l>
+               </lg>
+               <lg>
+                  <l>VVhen I a Servant had, I had one then:</l>
+                  <l>VVhen two, I had but half a one; and when</l>
+                  <l>I had three Servants, I had none at all.</l>
+                  <l>Thus was I ſerv'd, by one, two, three, and all.</l>
+               </lg>
+               <pb n="62" facs="tcp:46150:34"/>
+               <lg>
+                  <l>Why hope you for your Friend's large Legacy,</l>
+                  <l>He makes his VVill; but not his will to dye.</l>
+               </lg>
+               <lg>
+                  <l>What Difficulty can we undertake,</l>
+                  <l>Where true Affection will not conqueſt make?</l>
+               </lg>
+               <lg>
+                  <l>What ſignifie the VVarrier's daring Pains,</l>
+                  <l>If prudence keeps not what his Valour gains.</l>
+               </lg>
+               <lg>
+                  <l>Who makes his Mark the Moon, much further he</l>
+                  <l>May Shoot, than he that levels at a Tree.</l>
+               </lg>
+               <lg>
+                  <l>Who knows how ſoon an interpoſing Cloud,</l>
+                  <l>May from our view, our ſmiling Sun-beams ſhroud.</l>
+               </lg>
+               <lg>
+                  <l>What Things by ſtudious care a man does find,</l>
+                  <l>In curious Arts, lodge longeſt in the mind.</l>
+               </lg>
+               <lg>
+                  <l>VVhen Lands &amp; Friends are gone, &amp; wealth takes wing,</l>
+                  <l>Then Learning's priz'd, then Learning's a brave thing.</l>
+               </lg>
+               <lg>
+                  <l>Where Beauty, Virtue, and true grace do meet,</l>
+                  <l>The harmony is admirably Sweet.</l>
+               </lg>
+               <lg>
+                  <l>Worth, too baſe minds is Envies propagation:</l>
+                  <l>But in Heroick Souls, gains Emulation.</l>
+               </lg>
+               <lg>
+                  <l>Who would build honours Temple, large and high,</l>
+                  <l>Muſt, for foundation, take Humility.</l>
+               </lg>
+               <lg>
+                  <l>Wealth, Pleaſure, Life it Self, all move beneath,</l>
+                  <l>The Sphear, where Fames perfumes their Glories breath.</l>
+               </lg>
+               <lg>
+                  <l>Where Reaſon, VVill, and Power, all comply</l>
+                  <l>With heavenly wiſdom, there's rare Harmony.</l>
+               </lg>
+               <pb n="63" facs="tcp:46150:34"/>
+               <lg>
+                  <l>Where Education doth adorn</l>
+                  <l>The Minds of Children Nobly Born,</l>
+                  <l>They ſeem of an Angellick Race.</l>
+                  <l>But where good Education wants,</l>
+                  <l>To be Engrafted in young Plants,</l>
+                  <l>It renders them extreamly baſe.</l>
+               </lg>
+               <lg>
+                  <l>Who of his Buſineſs makes a Recreation,</l>
+                  <l>Is in the way of VVealth and Reputation.</l>
+                  <l>But who a Buſineſs makes of Recreation,</l>
+                  <l>May bid a dew to Wealth and Reputation.</l>
+               </lg>
+               <lg>
+                  <l>What without Care and Pains can we effect,</l>
+                  <l>VVhoſe Excellency may deſerve reſpect.</l>
+               </lg>
+            </div>
+            <div n="X" type="section">
+               <pb n="64" facs="tcp:46150:35"/>
+               <head>X</head>
+               <lg>
+                  <l>
+                     <hi>XEnophon</hi> writes, that even the Gods above,</l>
+                  <l>Delight with men, in Friendſhips Orb to move.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Xerxes,</hi> from a ſteep Mountains lofty Brow,</l>
+                  <l>Survey'd his hundred thouſand Men below;</l>
+                  <l>And wept, to think that in an Age they All</l>
+                  <l>By the impartial hand of Death muſt fall.</l>
+                  <l>But, after this vaſt Army did Engage,</l>
+                  <l>Few dayes diſpatch'd the Buſineſs of an Age.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Xenocrates</hi> did prudently divide,</l>
+                  <l>Into proportionable parts, each day;</l>
+                  <l>VVhich parts particularly, he apply'd;</l>
+                  <l>And One, wherein to ſtudy what to ſay</l>
+                  <l>He did aſſign; which gives us information,</l>
+                  <l>VViſely to uſe mature Premeditation.</l>
+               </lg>
+            </div>
+            <div n="Y" type="section">
+               <pb n="65" facs="tcp:46150:35"/>
+               <head>Y</head>
+               <lg>
+                  <l>YOu Parents, who your hopes on Children place,</l>
+                  <l>Teach them betimes to run in Virtues Race.</l>
+               </lg>
+               <lg>
+                  <l>Your pretious Time wiſely to day imploy,</l>
+                  <l>Who knows what he to morrow may enjoy?</l>
+               </lg>
+               <lg>
+                  <l>You want what you deſire, but let this ſerve,</l>
+                  <l>That you enjoy far more than you deſerve.</l>
+               </lg>
+               <lg>
+                  <l>Your Tallent came from a Celeſtial Donor:</l>
+                  <l>Endeavour to improve it to his Honour.</l>
+               </lg>
+               <lg>
+                  <l>Your want of high-flown Ingenuity,</l>
+                  <l>By conſtant Care, and Induſtry ſupply.</l>
+               </lg>
+               <lg>
+                  <l>You'l find, when you their Vizor-Masks remove,</l>
+                  <l>Such as are ſhameleſs, ſeldom blameleſs prove.</l>
+               </lg>
+               <lg>
+                  <l>Yield not to ſleeps intoxicating Charms;</l>
+                  <l>Rowze up, and vanquiſh him by force of arms.</l>
+               </lg>
+               <lg>
+                  <l>Your Conſcience, keep ſerene, and fear not then,</l>
+                  <l>The moſt Calumnious, Envious Tongues of men.</l>
+               </lg>
+               <lg>
+                  <l>Your Tongue command, to the command of Reaſon:</l>
+                  <l>Know when to ſpeak, and when to ſpare, in Seaſon.</l>
+               </lg>
+               <lg>
+                  <l>Your Memory ſtore with Philology,</l>
+                  <l>And all the various ſorts of Hiſtory.</l>
+               </lg>
+               <lg>
+                  <l>You Mammoniſts, in what plight ſhall we find you,</l>
+                  <l>When Death ſays, Come, &amp; leave your Bags behind you,</l>
+               </lg>
+               <lg>
+                  <l>You Parents, who a happy Crop would Mow;</l>
+                  <l>Betimes, in Children, Virtues Seeds muſt Sow.</l>
+               </lg>
+               <lg>
+                  <l>Your Friend, at firſt to Concil deaf; do you</l>
+                  <l>That worthy Office, to perſwade, renew.</l>
+               </lg>
+               <lg>
+                  <l>Yet Providence preſents fair Opportunities,</l>
+                  <l>Which you may take &amp; Live, &amp; Thrive, if you be wiſe.</l>
+               </lg>
+               <pb n="66" facs="tcp:46150:36"/>
+               <lg>
+                  <l>Your Memory with choiceſt Treaſures Store:</l>
+                  <l>Thieves cannot make the Rich in knowledge, poor.</l>
+               </lg>
+               <lg>
+                  <l>You that lye wind-bound in the port of Sorrow,</l>
+                  <l>May be ſet free, by a freſh Gale, to morrow,</l>
+               </lg>
+               <lg>
+                  <l>Young Impudence, ſuffer'd to run to Seed,</l>
+                  <l>Will ſpoyle the Stock, and poyſon all the Breed.</l>
+               </lg>
+               <lg>
+                  <l>You muſt accompt for't, 'tis to be preſum'd,</l>
+                  <l>VVho have in paſs-time you time paſt conſum'd.</l>
+               </lg>
+               <lg>
+                  <l>Your Arts, your Parts, your VViſdom and your worth,</l>
+                  <l>Are out of Faſhion; Coyne's the God o'th' Earth.</l>
+               </lg>
+               <lg>
+                  <l>Your Body, Feed, Cloath, Comfort, and ſupply;</l>
+                  <l>Yet let your Soul maintain the Soveraignty.</l>
+               </lg>
+               <lg>
+                  <l>Youthful Diſcretion is a true preſage,</l>
+                  <l>In moſt, of Learned, honourable Age.</l>
+               </lg>
+               <lg>
+                  <l>Young men, have ever more a ſpecial Care,</l>
+                  <l>That Feminine Inchantments prove no Snare.</l>
+               </lg>
+               <lg>
+                  <l>You here, our choiceſt Monograms may ſcan,</l>
+                  <l>VVhere man is fairly pictur'd forth to Man.</l>
+               </lg>
+               <lg>
+                  <l>Yeſterdays Loſs, ſtrive to repair to day;</l>
+                  <l>Let your ſwift VVill run equal to your power:</l>
+                  <l>A Traveller that rides out of his way,</l>
+                  <l>Loſes two hours, in riding but one hour.</l>
+                  <l>And if he turns not, by Directions force,</l>
+                  <l>He may loſe more, and tyre himſelf and Horſe.</l>
+               </lg>
+               <lg>
+                  <l>Your prudent providence let Ants engage:</l>
+                  <l>In Summer, mind the VVinter of your Age.</l>
+               </lg>
+            </div>
+            <div n="Z" type="section">
+               <pb n="67" facs="tcp:46150:36"/>
+               <head>Z</head>
+               <lg>
+                  <l>
+                     <hi>ZEno,</hi> by Silence, made the Follies known</l>
+                  <l>Of others, and thereby conceal'd his own.</l>
+               </lg>
+               <lg>
+                  <l>Zeal without Knowledge doth the Judgment taint;</l>
+                  <l>Although the Zelot thinks himſelf a Saint.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Zenobia</hi> reigns as Empreſs o're choice VVits,</l>
+                  <l>On Arts reſplendant Throne <hi>Eugenia</hi> Sits.</l>
+               </lg>
+               <lg>
+                  <l>Zealouſly run for Virtues Crown of Bays:</l>
+                  <l>VVhich having gain'd, preſent to Heaven the praiſe.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Zant,</hi> an <hi>Ionian</hi> Iſle, us Currans ſends,</l>
+                  <l>VVith which we pleaſe our Palats and our Friends.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Zones,</hi> Lines and Tropicks the great VVorld can bound;</l>
+                  <l>But for the leſs no Limits can be found.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Zeuxes,</hi> was rare at Colours, and at Shapes;</l>
+                  <l>So rare, that Birds peckt at his painted Grapes.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Zephyrus,</hi> now our Roſes hath full blown,</l>
+                  <l>And now their fragrant Glories forth are flown;</l>
+                  <l>And now to the wide world they ſhall be known.</l>
+               </lg>
+               <lg>
+                  <l>Zeal mounts the Soul above the rapid Sphears;</l>
+                  <l>And, even th' Inviſible, to Faith, appears.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Zenith's</hi> the higheſt point of Fortunes wheele;</l>
+                  <l>From whence her Favorites muſt fall that reele.</l>
+               </lg>
+               <lg>
+                  <l>Zealouſly prove true honeſty's true Friend,</l>
+                  <l>For that will prove beſt Policy i'th' End.</l>
+               </lg>
+               <pb n="68" facs="tcp:46150:37" rendition="simple:additions"/>
+               <lg>
+                  <l>Zeal for the Publick Good made me Engage,</l>
+                  <l>Thus to new file this ruſty Iron Age,</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Zoylus,</hi> and <hi>Momus,</hi> with their numerous Train,</l>
+                  <l>VVill view theſe Operations, and complain.</l>
+                  <l>That Ink, which might have drawn forth Nobler Lines,</l>
+                  <l>Should be imploy'd in theſe, ſo mean Deſigns.</l>
+                  <l>Let <hi>Zoylus</hi> carp; let <hi>Momus</hi> bark; let all</l>
+                  <l>Their vaſt Retinue ſpit their Spleen and Gall:</l>
+                  <l>VVhile Sun, and Moon, the day and Night command,</l>
+                  <l>Theſe Lines their Authors Monuments ſhall ſtand.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46150:37"/>
+         </div>
+      </body>
+   </text>
+</TEI>
